@@ -15,7 +15,7 @@ export type StoryNode={id:string;name:string;w:number;h:number;text?:string;size
 export const projects=[
  {slug:'museum',title:'Museum App & Website',summary:'An eight-week UX project exploring exhibition discovery and visit planning across an app and responsive website.',cta:'Read the case study',cover:assets.projects.imgGalleryMuseumAppWebsite,tree:museum as StoryNode},
  {slug:'blueprint',title:'BluePrint',summary:'A working hackathon project that helps learners discover ideas, build a plan, and keep making—with AI guidance along the way.',cta:'Explore the build',cover:assets.projects.imgGalleryBluePrint,tree:blueprint as StoryNode},
- {slug:'trailwatch',title:'TrailWatch',summary:'A personal mobile UI exploration inspired by getting outdoors and noticing changes along local trails.',cta:'See the exploration',cover:'/assets/trail-cover.webp',tree:trailwatch as StoryNode}
+ {slug:'trailwatch',title:'TrailWatch',summary:'A personal mobile UI exploration inspired by getting outdoors and noticing changes along local trails.',cta:'See the exploration',cover:'/assets/trailwatch-covercasestudy.png',tree:trailwatch as StoryNode}
 ];
 export const events=[
  {slug:'rowdyhacks',title:'RowdyHacks XII',date:'October 1–4, 2026',type:'Hackathon',tree:rowdyhacks as StoryNode},
@@ -27,7 +27,7 @@ export const events=[
  {slug:'retreat',title:'Three-Day Scholar Retreat – UTSA Honors College',date:'July 28–30, 2025',type:'Leadership',tree:retreat as StoryNode},
  {slug:'kode',title:'Kode with Klossy Data Science Camp',date:'June 2–13, 2025',type:'Program',tree:kode as StoryNode}
 ];
-export const socials=[['Figma','https://www.figma.com/@haileymbella'],['GitHub','https://github.com/haileybella'],['LinkedIn','https://www.linkedin.com/in/haileymuniz']];
+export const socials=[['Figma','https://www.figma.com/@haileymbella'],['GitHub','https://github.com/haileybella'],['LinkedIn','https://www.linkedin.com/in/haileymuniz'],['ORCID','https://orcid.org/0009-0002-8239-9571']];
 export const stampImages:Record<string,string>={Hackathon:assets.events.imgGroup,Conference:assets.events.imgGroup1,Program:assets.events.imgGroup2,Leadership:assets.events.imgGroup3};
 export const storyLinks:Record<string,string>={'108:121':'https://rowdy-hacks-xii.devpost.com/','108:122':'https://github.com/William-Chen07/Blueprint','108:123':'https://devpost.com/software/blueprint-t06bg5','108:407':'https://www.youtube.com/watch?v=dzJ2XNWp56o&t=1s','108:1050':'https://bit.ly/44oSGEk','108:1051':'https://lnkd.in/dsHM5KcD'};
 export function texts(n:StoryNode):string[]{return n.text?[n.text]:(n.children??[]).flatMap(texts)}

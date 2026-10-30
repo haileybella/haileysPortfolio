@@ -429,62 +429,6 @@
           "layout": "HORIZONTAL",
           "children": [
             {
-              "id": "108:121",
-              "name": "LINK / Website / Add destination URL",
-              "w": 172,
-              "h": 152,
-              "layout": "VERTICAL",
-              "children": [
-                {
-                  "id": "I108:121;52:145",
-                  "name": "FROM THE FIELD",
-                  "w": 148,
-                  "h": 17,
-                  "text": "FOLLOW THE STORY",
-                  "font": {
-                    "family": "Inter",
-                    "style": "Regular",
-                    "variationSettings": {
-                      "wght": 400,
-                      "slnt": 0
-                    }
-                  },
-                  "size": 12,
-                  "link": null
-                },
-                {
-                  "id": "I108:121;52:146",
-                  "name": "Hackathon",
-                  "w": 148,
-                  "h": 42,
-                  "text": "Website",
-                  "font": {
-                    "family": "Instrument Serif",
-                    "style": "Regular"
-                  },
-                  "size": 29,
-                  "link": null
-                },
-                {
-                  "id": "I108:121;52:147",
-                  "name": "HAILEY’S POSTCARDS",
-                  "w": 148,
-                  "h": 13,
-                  "text": "OPEN LINK ↗",
-                  "font": {
-                    "family": "Inter",
-                    "style": "Regular",
-                    "variationSettings": {
-                      "wght": 400,
-                      "slnt": 0
-                    }
-                  },
-                  "size": 9,
-                  "link": null
-                }
-              ]
-            },
-            {
               "id": "108:122",
               "name": "LINK / Vlog / Add destination URL",
               "w": 172,

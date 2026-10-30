@@ -97,10 +97,11 @@
     },
     {
       "id": "168:485",
-      "name": "TrailWatch — Cover",
+      "name": "TrailWatch — Cover for case study",
       "w": 1088,
-      "h": 587.60302734375,
-      "cover": true
+      "h": 588,
+      "cover": true,
+      "src": "/assets/trailwatch-covercasestudy.png"
     },
     {
       "id": "148:593",

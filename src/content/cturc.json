@@ -149,8 +149,7 @@
       "w": 1024,
       "h": 620.279541015625,
       "image": true,
-      "src": "/assets/cturc-88acf.webp",
-      "crop": "absolute h-[295.02%] left-0 max-w-none top-[-98.43%] w-full"
+      "src": "/assets/cturc-cover.png"
     },
     {
       "id": "108:657",
@@ -366,8 +365,7 @@
                   "w": 325,
                   "h": 186.81695556640625,
                   "image": true,
-                  "src": "/assets/cturc-88acf.webp",
-                  "crop": "absolute h-[310.89%] left-0 max-w-none top-[-210.89%] w-full"
+                  "src": "/assets/cturc-memory-52.png"
                 },
                 {
                   "id": "108:695",
@@ -375,8 +373,7 @@
                   "w": 325,
                   "h": 192.03024291992188,
                   "image": true,
-                  "src": "/assets/cturc-88acf.webp",
-                  "crop": "absolute h-[302.45%] left-0 max-w-none top-0 w-full"
+                  "src": "/assets/cturc-memory-53.png"
                 }
               ]
             }
