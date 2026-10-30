@@ -1,0 +1,573 @@
+{
+  "id": "108:371",
+  "name": "Postcard / Stanford Young Scientist Institute",
+  "w": 1120,
+  "h": 2968.5,
+  "layout": "VERTICAL",
+  "children": [
+    {
+      "id": "108:372",
+      "name": "← All postcards",
+      "w": 1024,
+      "h": 17,
+      "text": "← All postcards",
+      "font": {
+        "family": "Inter",
+        "style": "Regular",
+        "variationSettings": {
+          "wght": 400,
+          "slnt": 0
+        }
+      },
+      "size": 12,
+      "link": null
+    },
+    {
+      "id": "108:373",
+      "name": "Event header",
+      "w": 1024,
+      "h": 152,
+      "layout": "HORIZONTAL",
+      "children": [
+        {
+          "id": "108:374",
+          "name": "Event identity",
+          "w": 780,
+          "h": 137,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "108:375",
+              "name": "A POSTCARD FROM",
+              "w": 780,
+              "h": 17,
+              "text": "A POSTCARD FROM",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 12,
+              "link": null
+            },
+            {
+              "id": "108:376",
+              "name": "Your event name",
+              "w": 780,
+              "h": 75,
+              "text": "Stanford Young Scientist Institute",
+              "font": {
+                "family": "Instrument Serif",
+                "style": "Regular"
+              },
+              "size": 68,
+              "link": null
+            },
+            {
+              "id": "108:377",
+              "name": "Month DD, YYYY · City, State",
+              "w": 780,
+              "h": 25,
+              "text": "May 25–30, 2026  ·  Stanford, CA",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 17,
+              "link": null
+            }
+          ]
+        },
+        {
+          "id": "108:378",
+          "name": "Event type / Hackathon, Conference, Program, Retreat",
+          "w": 172,
+          "h": 152,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "I108:378;52:145",
+              "name": "FROM THE FIELD",
+              "w": 148,
+              "h": 17,
+              "text": "FROM THE FIELD",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 12,
+              "link": null
+            },
+            {
+              "id": "I108:378;52:146",
+              "name": "Hackathon",
+              "w": 148,
+              "h": 42,
+              "text": "Program",
+              "font": {
+                "family": "Instrument Serif",
+                "style": "Regular"
+              },
+              "size": 29,
+              "link": null
+            },
+            {
+              "id": "I108:378;52:147",
+              "name": "HAILEY’S POSTCARDS",
+              "w": 148,
+              "h": 13,
+              "text": "HAILEY’S POSTCARDS",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 9,
+              "link": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "108:379",
+      "name": "COVER / Replace fill with horizontal event photo",
+      "w": 1024,
+      "h": 818.5,
+      "image": true,
+      "src": "/assets/stanford-edbd1.webp",
+      "crop": "absolute inset-0 max-w-none object-contain pointer-events-none rounded-[12px] size-full"
+    },
+    {
+      "id": "108:381",
+      "name": "Postcard message",
+      "w": 1024,
+      "h": 354,
+      "layout": "HORIZONTAL",
+      "children": [
+        {
+          "id": "108:382",
+          "name": "Overview",
+          "w": 620,
+          "h": 204,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "108:383",
+              "name": "Dear reader,",
+              "w": 620,
+              "h": 55,
+              "text": "Dear reader,",
+              "font": {
+                "family": "Instrument Serif",
+                "style": "Italic"
+              },
+              "size": 38,
+              "link": null
+            },
+            {
+              "id": "108:384",
+              "name": "[What brought you here? Describe the event, your role, and the idea or question you explored in a short personal note.]",
+              "w": 620,
+              "h": 125,
+              "text": "I spent a week at Stanford University with my P20 IES Pathways research group through the UTSA–Stanford University Pathways Summer Institute. Research sessions, faculty talks, graduate student panels, and class visits gave me a closer look at educational research and what pursuing a Ph.D. can look like.",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 17,
+              "link": null
+            }
+          ]
+        },
+        {
+          "id": "108:386",
+          "name": "Highlights",
+          "w": 380,
+          "h": 354,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "108:387",
+              "name": "The moments I’m keeping",
+              "w": 380,
+              "h": 55,
+              "text": "The moments I’m keeping",
+              "font": {
+                "family": "Instrument Serif",
+                "style": "Regular"
+              },
+              "size": 38,
+              "link": null
+            },
+            {
+              "id": "108:388",
+              "name": "[One thing you made or contributed] [One thing you learned] [A person, conversation, or moment that stayed with you]",
+              "w": 380,
+              "h": 275,
+              "text": "Visited EDUC 218: Topics in Cognition and Learning with Dr. Bruce McCandliss, exploring how AI can enhance human cognition.\n\nJoined the Journeys to and through Graduate School panel and conversations with graduate students.\n\nExplored campus and San Francisco, tried new food, and made memories with fellow students.",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 17,
+              "link": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "108:390",
+      "name": "People and tools",
+      "w": 1024,
+      "h": 129,
+      "layout": "HORIZONTAL",
+      "children": [
+        {
+          "id": "108:391",
+          "name": "Team",
+          "w": 500,
+          "h": 129,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "108:392",
+              "name": "Good company",
+              "w": 500,
+              "h": 55,
+              "text": "Good company",
+              "font": {
+                "family": "Instrument Serif",
+                "style": "Regular"
+              },
+              "size": 38,
+              "link": null
+            },
+            {
+              "id": "108:393",
+              "name": "P20 IES Pathways · Dr. Ramón Martínez · Leslie Luqueño · Stanford Graduate School of Education",
+              "w": 500,
+              "h": 50,
+              "text": "P20 IES Pathways · Dr. Ramón Martínez · Leslie Luqueño · Stanford Graduate School of Education",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 17,
+              "link": null
+            }
+          ]
+        },
+        {
+          "id": "108:394",
+          "name": "Tools",
+          "w": 500,
+          "h": 129,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "108:395",
+              "name": "In my toolkit",
+              "w": 500,
+              "h": 55,
+              "text": "In my toolkit",
+              "font": {
+                "family": "Instrument Serif",
+                "style": "Regular"
+              },
+              "size": 38,
+              "link": null
+            },
+            {
+              "id": "108:396",
+              "name": "[Tools, technologies, or methods used]",
+              "w": 500,
+              "h": 50,
+              "text": "AI in education · Educational research · Graduate-school exploration",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 17,
+              "link": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "108:397",
+      "name": "More photos",
+      "w": 1024,
+      "h": 875,
+      "layout": "VERTICAL",
+      "children": [
+        {
+          "id": "108:398",
+          "name": "A few more memories",
+          "w": 1024,
+          "h": 55,
+          "text": "A few more memories",
+          "font": {
+            "family": "Instrument Serif",
+            "style": "Regular"
+          },
+          "size": 38,
+          "link": null
+        },
+        {
+          "id": "108:421",
+          "name": "Event photo gallery",
+          "w": 1024,
+          "h": 796,
+          "layout": "HORIZONTAL",
+          "children": [
+            {
+              "id": "111:17",
+              "name": "Photo column 1",
+              "w": 325.3333435058594,
+              "h": 731.9100341796875,
+              "layout": "VERTICAL",
+              "children": [
+                {
+                  "id": "108:427",
+                  "name": "Event photo 26",
+                  "w": 325.3333435058594,
+                  "h": 249.9100341796875,
+                  "image": true,
+                  "src": "/assets/stanford-01389.webp",
+                  "crop": "absolute h-[109.8%] left-0 max-w-none top-[-9.91%] w-[112.46%]"
+                },
+                {
+                  "id": "108:435",
+                  "name": "Event photo 32",
+                  "w": 325.3333435058594,
+                  "h": 183,
+                  "image": true,
+                  "src": "/assets/stanford-3d0e5.webp",
+                  "crop": "absolute inset-0 max-w-none object-contain pointer-events-none rounded-[12px] size-full"
+                },
+                {
+                  "id": "108:424",
+                  "name": "Event photo 24",
+                  "w": 325.3333435058594,
+                  "h": 259,
+                  "image": true,
+                  "src": "/assets/stanford-066e9.webp",
+                  "crop": "absolute h-[100.28%] left-[-41.73%] max-w-none top-[0.08%] w-[141.63%]"
+                }
+              ]
+            },
+            {
+              "id": "111:18",
+              "name": "Photo column 2",
+              "w": 325.3333435058594,
+              "h": 741.627197265625,
+              "layout": "VERTICAL",
+              "children": [
+                {
+                  "id": "108:432",
+                  "name": "Event photo 30",
+                  "w": 325.3333435058594,
+                  "h": 183.1588592529297,
+                  "image": true,
+                  "src": "/assets/stanford-4939e.webp",
+                  "crop": "absolute inset-0 max-w-none object-contain pointer-events-none rounded-[12px] size-full"
+                },
+                {
+                  "id": "108:429",
+                  "name": "Event photo 28",
+                  "w": 325.3333435058594,
+                  "h": 335.46832275390625,
+                  "image": true,
+                  "src": "/assets/stanford-75098.webp",
+                  "crop": "absolute h-[174.56%] left-[-1.25%] max-w-none top-[-41.2%] w-[101.25%]"
+                },
+                {
+                  "id": "108:423",
+                  "name": "Event photo 23",
+                  "w": 325.3333435058594,
+                  "h": 183,
+                  "image": true,
+                  "src": "/assets/stanford-7b3a2.webp",
+                  "crop": "absolute inset-0 max-w-none object-contain pointer-events-none rounded-[12px] size-full"
+                }
+              ]
+            },
+            {
+              "id": "111:19",
+              "name": "Photo column 3",
+              "w": 325.3333435058594,
+              "h": 796,
+              "layout": "VERTICAL",
+              "children": [
+                {
+                  "id": "108:425",
+                  "name": "Event photo 25",
+                  "w": 325.3333435058594,
+                  "h": 183,
+                  "image": true,
+                  "src": "/assets/stanford-95c4d.webp",
+                  "crop": "absolute inset-0 max-w-none object-contain pointer-events-none rounded-[12px] size-full"
+                },
+                {
+                  "id": "108:431",
+                  "name": "Event photo 29",
+                  "w": 325.3333435058594,
+                  "h": 183,
+                  "image": true,
+                  "src": "/assets/stanford-58627.webp",
+                  "crop": "absolute inset-0 max-w-none object-contain pointer-events-none rounded-[12px] size-full"
+                },
+                {
+                  "id": "108:433",
+                  "name": "Event photo 31",
+                  "w": 325,
+                  "h": 390,
+                  "image": true,
+                  "src": "/assets/stanford-68613.webp",
+                  "crop": "absolute h-[113.33%] left-[0.02%] max-w-none top-[-13.33%] w-[99.54%]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "108:403",
+      "name": "Postage links",
+      "w": 1024,
+      "h": 280,
+      "layout": "VERTICAL",
+      "children": [
+        {
+          "id": "108:404",
+          "name": "Follow the story",
+          "w": 1024,
+          "h": 55,
+          "text": "Follow the story",
+          "font": {
+            "family": "Instrument Serif",
+            "style": "Regular"
+          },
+          "size": 38,
+          "link": null
+        },
+        {
+          "id": "108:405",
+          "name": "A few stamps to take you further.",
+          "w": 1024,
+          "h": 25,
+          "text": "A few stamps to take you further.",
+          "font": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "wght": 400,
+              "slnt": 0
+            }
+          },
+          "size": 17,
+          "link": null
+        },
+        {
+          "id": "108:406",
+          "name": "Link stamps",
+          "w": 1024,
+          "h": 152,
+          "layout": "HORIZONTAL",
+          "children": [
+            {
+              "id": "108:407",
+              "name": "LINK / Website / Add destination URL",
+              "w": 172,
+              "h": 152,
+              "layout": "VERTICAL",
+              "children": [
+                {
+                  "id": "I108:407;52:145",
+                  "name": "FROM THE FIELD",
+                  "w": 148,
+                  "h": 17,
+                  "text": "FOLLOW THE STORY",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "variationSettings": {
+                      "wght": 400,
+                      "slnt": 0
+                    }
+                  },
+                  "size": 12,
+                  "link": null
+                },
+                {
+                  "id": "I108:407;52:146",
+                  "name": "Hackathon",
+                  "w": 148,
+                  "h": 42,
+                  "text": "Vlog",
+                  "font": {
+                    "family": "Instrument Serif",
+                    "style": "Regular"
+                  },
+                  "size": 29,
+                  "link": null
+                },
+                {
+                  "id": "I108:407;52:147",
+                  "name": "HAILEY’S POSTCARDS",
+                  "w": 148,
+                  "h": 13,
+                  "text": "OPEN LINK ↗",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "variationSettings": {
+                      "wght": 400,
+                      "slnt": 0
+                    }
+                  },
+                  "size": 9,
+                  "link": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

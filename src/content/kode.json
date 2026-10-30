@@ -1,0 +1,557 @@
+{
+  "id": "108:1014",
+  "name": "Postcard / Kode with Klossy Data Science Camp",
+  "w": 1120,
+  "h": 2217.467041015625,
+  "layout": "VERTICAL",
+  "children": [
+    {
+      "id": "108:1015",
+      "name": "← All postcards",
+      "w": 1024,
+      "h": 17,
+      "text": "← All postcards",
+      "font": {
+        "family": "Inter",
+        "style": "Regular",
+        "variationSettings": {
+          "wght": 400,
+          "slnt": 0
+        }
+      },
+      "size": 12,
+      "link": null
+    },
+    {
+      "id": "108:1016",
+      "name": "Event header",
+      "w": 1024,
+      "h": 212,
+      "layout": "HORIZONTAL",
+      "children": [
+        {
+          "id": "108:1017",
+          "name": "Event identity",
+          "w": 780,
+          "h": 212,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "108:1018",
+              "name": "A POSTCARD FROM",
+              "w": 780,
+              "h": 17,
+              "text": "A POSTCARD FROM",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 12,
+              "link": null
+            },
+            {
+              "id": "108:1019",
+              "name": "Your event name",
+              "w": 780,
+              "h": 150,
+              "text": "Kode with Klossy Data Science Camp",
+              "font": {
+                "family": "Instrument Serif",
+                "style": "Regular"
+              },
+              "size": 68,
+              "link": null
+            },
+            {
+              "id": "108:1020",
+              "name": "Month DD, YYYY · City, State",
+              "w": 780,
+              "h": 25,
+              "text": "June 2–13, 2025",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 17,
+              "link": null
+            }
+          ]
+        },
+        {
+          "id": "108:1021",
+          "name": "Event type / Hackathon, Conference, Program, Retreat",
+          "w": 172,
+          "h": 152,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "I108:1021;52:145",
+              "name": "FROM THE FIELD",
+              "w": 148,
+              "h": 17,
+              "text": "FROM THE FIELD",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 12,
+              "link": null
+            },
+            {
+              "id": "I108:1021;52:146",
+              "name": "Hackathon",
+              "w": 148,
+              "h": 42,
+              "text": "Program",
+              "font": {
+                "family": "Instrument Serif",
+                "style": "Regular"
+              },
+              "size": 29,
+              "link": null
+            },
+            {
+              "id": "I108:1021;52:147",
+              "name": "HAILEY’S POSTCARDS",
+              "w": 148,
+              "h": 13,
+              "text": "HAILEY’S POSTCARDS",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 9,
+              "link": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "108:1022",
+      "name": "COVER / Replace fill with horizontal event photo",
+      "w": 1024,
+      "h": 504,
+      "image": true,
+      "src": "/assets/kode-6e994.webp",
+      "crop": "absolute inset-0 max-w-none object-contain pointer-events-none rounded-[12px] size-full"
+    },
+    {
+      "id": "108:1024",
+      "name": "Postcard message",
+      "w": 1024,
+      "h": 404,
+      "layout": "HORIZONTAL",
+      "children": [
+        {
+          "id": "108:1025",
+          "name": "Overview",
+          "w": 620,
+          "h": 179,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "108:1026",
+              "name": "Dear reader,",
+              "w": 620,
+              "h": 55,
+              "text": "Dear reader,",
+              "font": {
+                "family": "Instrument Serif",
+                "style": "Italic"
+              },
+              "size": 38,
+              "link": null
+            },
+            {
+              "id": "108:1027",
+              "name": "[What brought you here? Describe the event, your role, and the idea or question you explored in a short personal note.]",
+              "w": 620,
+              "h": 100,
+              "text": "Over two weeks at Kode with Klossy, I learned SQL and Tableau while exploring how data can tell stories about topics that matter. My team created “Women in STEM: Education Paths and Career Outcomes,” a dashboard examining global STEM education and U.S. workforce participation.",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 17,
+              "link": null
+            }
+          ]
+        },
+        {
+          "id": "108:1029",
+          "name": "Highlights",
+          "w": 380,
+          "h": 404,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "108:1030",
+              "name": "The moments I’m keeping",
+              "w": 380,
+              "h": 55,
+              "text": "The moments I’m keeping",
+              "font": {
+                "family": "Instrument Serif",
+                "style": "Regular"
+              },
+              "size": 38,
+              "link": null
+            },
+            {
+              "id": "108:1031",
+              "name": "[One thing you made or contributed] [One thing you learned] [A person, conversation, or moment that stayed with you]",
+              "w": 380,
+              "h": 325,
+              "text": "Sourced datasets on Kaggle and refined our focus after early data challenges.\n\nWireframed the dashboard and built interactive Tableau visualizations of degree attainment, fields of study, and employment outcomes.\n\nUsed peer feedback to improve our work and presented it on Pitch Day.\n\nExplored equity in AI, ethical innovation, and inclusive technology in Culture of Tech sessions.",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 17,
+              "link": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "108:1033",
+      "name": "People and tools",
+      "w": 1024,
+      "h": 129,
+      "layout": "HORIZONTAL",
+      "children": [
+        {
+          "id": "108:1034",
+          "name": "Team",
+          "w": 500,
+          "h": 104,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "108:1035",
+              "name": "Good company",
+              "w": 500,
+              "h": 55,
+              "text": "Good company",
+              "font": {
+                "family": "Instrument Serif",
+                "style": "Regular"
+              },
+              "size": 38,
+              "link": null
+            },
+            {
+              "id": "108:1036",
+              "name": "Priss Marquez, Sophia Castedo, Adya Sastry",
+              "w": 500,
+              "h": 25,
+              "text": "Priss Marquez, Sophia Castedo, Adya Sastry",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 17,
+              "link": null
+            }
+          ]
+        },
+        {
+          "id": "108:1037",
+          "name": "Tools",
+          "w": 500,
+          "h": 129,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "108:1038",
+              "name": "In my toolkit",
+              "w": 500,
+              "h": 55,
+              "text": "In my toolkit",
+              "font": {
+                "family": "Instrument Serif",
+                "style": "Regular"
+              },
+              "size": 38,
+              "link": null
+            },
+            {
+              "id": "108:1039",
+              "name": "[Tools, technologies, or methods used]",
+              "w": 500,
+              "h": 50,
+              "text": "SQL / SQLite · Tableau · Kaggle · Data visualization · Wireframing",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 17,
+              "link": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "108:1040",
+      "name": "More photos",
+      "w": 1024,
+      "h": 328.4669494628906,
+      "layout": "VERTICAL",
+      "children": [
+        {
+          "id": "108:1041",
+          "name": "A few more memories",
+          "w": 1024,
+          "h": 55,
+          "text": "A few more memories",
+          "font": {
+            "family": "Instrument Serif",
+            "style": "Regular"
+          },
+          "size": 38,
+          "link": null
+        },
+        {
+          "id": "108:1069",
+          "name": "Event photo gallery",
+          "w": 1024,
+          "h": 249.46694946289062,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "108:1070",
+              "name": "Frame",
+              "w": 1024,
+              "h": 249.46694946289062,
+              "layout": "HORIZONTAL",
+              "children": [
+                {
+                  "id": "108:1071",
+                  "name": "Event photo 19",
+                  "w": 325,
+                  "h": 183.5294189453125,
+                  "image": true,
+                  "src": "/assets/kode-62a5d.webp",
+                  "crop": "absolute inset-0 max-w-none object-contain pointer-events-none rounded-[12px] size-full"
+                },
+                {
+                  "id": "108:1072",
+                  "name": "Event photo 20",
+                  "w": 325,
+                  "h": 182.53424072265625,
+                  "image": true,
+                  "src": "/assets/kode-d1bdb.webp",
+                  "crop": "absolute inset-0 max-w-none object-contain pointer-events-none rounded-[12px] size-full"
+                },
+                {
+                  "id": "108:1073",
+                  "name": "Event photo 21",
+                  "w": 325,
+                  "h": 249.46694946289062,
+                  "image": true,
+                  "src": "/assets/kode-e5921.webp",
+                  "crop": "absolute inset-0 max-w-none object-contain pointer-events-none rounded-[12px] size-full"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "108:1046",
+      "name": "Postage links",
+      "w": 1024,
+      "h": 280,
+      "layout": "VERTICAL",
+      "children": [
+        {
+          "id": "108:1047",
+          "name": "Follow the story",
+          "w": 1024,
+          "h": 55,
+          "text": "Follow the story",
+          "font": {
+            "family": "Instrument Serif",
+            "style": "Regular"
+          },
+          "size": 38,
+          "link": null
+        },
+        {
+          "id": "108:1048",
+          "name": "A few stamps to take you further.",
+          "w": 1024,
+          "h": 25,
+          "text": "A few stamps to take you further.",
+          "font": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "wght": 400,
+              "slnt": 0
+            }
+          },
+          "size": 17,
+          "link": null
+        },
+        {
+          "id": "108:1049",
+          "name": "Link stamps",
+          "w": 1024,
+          "h": 152,
+          "layout": "HORIZONTAL",
+          "children": [
+            {
+              "id": "108:1050",
+              "name": "LINK / Website / Add destination URL",
+              "w": 172,
+              "h": 152,
+              "layout": "VERTICAL",
+              "children": [
+                {
+                  "id": "I108:1050;52:145",
+                  "name": "FROM THE FIELD",
+                  "w": 148,
+                  "h": 17,
+                  "text": "FOLLOW THE STORY",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "variationSettings": {
+                      "wght": 400,
+                      "slnt": 0
+                    }
+                  },
+                  "size": 12,
+                  "link": null
+                },
+                {
+                  "id": "I108:1050;52:146",
+                  "name": "Hackathon",
+                  "w": 148,
+                  "h": 42,
+                  "text": "Dashboard",
+                  "font": {
+                    "family": "Instrument Serif",
+                    "style": "Regular"
+                  },
+                  "size": 29,
+                  "link": null
+                },
+                {
+                  "id": "I108:1050;52:147",
+                  "name": "HAILEY’S POSTCARDS",
+                  "w": 148,
+                  "h": 13,
+                  "text": "OPEN LINK ↗",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "variationSettings": {
+                      "wght": 400,
+                      "slnt": 0
+                    }
+                  },
+                  "size": 9,
+                  "link": null
+                }
+              ]
+            },
+            {
+              "id": "108:1051",
+              "name": "LINK / Vlog / Add destination URL",
+              "w": 172,
+              "h": 152,
+              "layout": "VERTICAL",
+              "children": [
+                {
+                  "id": "I108:1051;52:145",
+                  "name": "FROM THE FIELD",
+                  "w": 148,
+                  "h": 17,
+                  "text": "FOLLOW THE STORY",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "variationSettings": {
+                      "wght": 400,
+                      "slnt": 0
+                    }
+                  },
+                  "size": 12,
+                  "link": null
+                },
+                {
+                  "id": "I108:1051;52:146",
+                  "name": "Hackathon",
+                  "w": 148,
+                  "h": 42,
+                  "text": "Slides",
+                  "font": {
+                    "family": "Instrument Serif",
+                    "style": "Regular"
+                  },
+                  "size": 29,
+                  "link": null
+                },
+                {
+                  "id": "I108:1051;52:147",
+                  "name": "HAILEY’S POSTCARDS",
+                  "w": 148,
+                  "h": 13,
+                  "text": "OPEN LINK ↗",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "variationSettings": {
+                      "wght": 400,
+                      "slnt": 0
+                    }
+                  },
+                  "size": 9,
+                  "link": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

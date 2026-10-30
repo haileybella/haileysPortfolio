@@ -1,0 +1,13 @@
+import React from 'react';
+import {createRoot,hydrateRoot} from 'react-dom/client';
+import {BrowserRouter} from 'react-router-dom';
+import '@fontsource/inter/400.css';
+import '@fontsource/inter/500.css';
+import '@fontsource/instrument-serif/400.css';
+import '@fontsource/instrument-serif/400-italic.css';
+import '@fontsource/italianno/400.css';
+import App from './App';
+import './style.css';
+const element=<React.StrictMode><BrowserRouter><App/></BrowserRouter></React.StrictMode>;
+const root=document.getElementById('root')!;
+if(root.hasChildNodes())hydrateRoot(root,element);else createRoot(root).render(element);

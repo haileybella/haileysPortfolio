@@ -1,0 +1,388 @@
+{
+  "id": "108:240",
+  "name": "Postcard / We_Teach CS Summit",
+  "w": 1120,
+  "h": 1865.052001953125,
+  "layout": "VERTICAL",
+  "children": [
+    {
+      "id": "108:241",
+      "name": "← All postcards",
+      "w": 1024,
+      "h": 17,
+      "text": "← All postcards",
+      "font": {
+        "family": "Inter",
+        "style": "Regular",
+        "variationSettings": {
+          "wght": 400,
+          "slnt": 0
+        }
+      },
+      "size": 12,
+      "link": null
+    },
+    {
+      "id": "108:242",
+      "name": "Event header",
+      "w": 1024,
+      "h": 152,
+      "layout": "HORIZONTAL",
+      "children": [
+        {
+          "id": "108:243",
+          "name": "Event identity",
+          "w": 780,
+          "h": 137,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "108:244",
+              "name": "A POSTCARD FROM",
+              "w": 780,
+              "h": 17,
+              "text": "A POSTCARD FROM",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 12,
+              "link": null
+            },
+            {
+              "id": "108:245",
+              "name": "Your event name",
+              "w": 780,
+              "h": 75,
+              "text": "We_Teach CS Summit",
+              "font": {
+                "family": "Instrument Serif",
+                "style": "Regular"
+              },
+              "size": 68,
+              "link": null
+            },
+            {
+              "id": "108:246",
+              "name": "Month DD, YYYY · City, State",
+              "w": 780,
+              "h": 25,
+              "text": "June 15–16, 2026",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 17,
+              "link": null
+            }
+          ]
+        },
+        {
+          "id": "108:247",
+          "name": "Event type / Hackathon, Conference, Program, Retreat",
+          "w": 172,
+          "h": 152,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "I108:247;52:145",
+              "name": "FROM THE FIELD",
+              "w": 148,
+              "h": 17,
+              "text": "FROM THE FIELD",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 12,
+              "link": null
+            },
+            {
+              "id": "I108:247;52:146",
+              "name": "Hackathon",
+              "w": 148,
+              "h": 42,
+              "text": "Conference",
+              "font": {
+                "family": "Instrument Serif",
+                "style": "Regular"
+              },
+              "size": 29,
+              "link": null
+            },
+            {
+              "id": "I108:247;52:147",
+              "name": "HAILEY’S POSTCARDS",
+              "w": 148,
+              "h": 13,
+              "text": "HAILEY’S POSTCARDS",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 9,
+              "link": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "108:248",
+      "name": "COVER / Replace fill with horizontal event photo",
+      "w": 1024,
+      "h": 651,
+      "image": true,
+      "src": "/assets/we-teach-46d2e.webp",
+      "crop": "absolute inset-0 max-w-none object-contain pointer-events-none rounded-[12px] size-full"
+    },
+    {
+      "id": "108:250",
+      "name": "Postcard message",
+      "w": 1024,
+      "h": 279,
+      "layout": "HORIZONTAL",
+      "children": [
+        {
+          "id": "108:251",
+          "name": "Overview",
+          "w": 620,
+          "h": 179,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "108:252",
+              "name": "Dear reader,",
+              "w": 620,
+              "h": 55,
+              "text": "Dear reader,",
+              "font": {
+                "family": "Instrument Serif",
+                "style": "Italic"
+              },
+              "size": 38,
+              "link": null
+            },
+            {
+              "id": "108:253",
+              "name": "[What brought you here? Describe the event, your role, and the idea or question you explored in a short personal note.]",
+              "w": 620,
+              "h": 100,
+              "text": "I attended the We_TeachCS Summit and connected with computer science educators. As a panelist on the AI Student Panel, I joined a conversation about how students use AI, its benefits and drawbacks, and how adults can help students build AI literacy and healthy habits.",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 17,
+              "link": null
+            }
+          ]
+        },
+        {
+          "id": "108:255",
+          "name": "Highlights",
+          "w": 380,
+          "h": 279,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "108:256",
+              "name": "The moments I’m keeping",
+              "w": 380,
+              "h": 55,
+              "text": "The moments I’m keeping",
+              "font": {
+                "family": "Instrument Serif",
+                "style": "Regular"
+              },
+              "size": 38,
+              "link": null
+            },
+            {
+              "id": "108:257",
+              "name": "Shared a student perspective on AI use and school guidelines. Attended sessions on micro:bits and combining art, coding, and data science education. Met and learned from computer science educators.",
+              "w": 380,
+              "h": 200,
+              "text": "Shared a student perspective on AI use and school guidelines.\n\nAttended sessions on micro:bits and combining art, coding, and data science education.\n\nMet and learned from computer science educators.",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 17,
+              "link": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "108:259",
+      "name": "People and tools",
+      "w": 1024,
+      "h": 129,
+      "layout": "HORIZONTAL",
+      "children": [
+        {
+          "id": "108:260",
+          "name": "Team",
+          "w": 500,
+          "h": 129,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "108:261",
+              "name": "Good company",
+              "w": 500,
+              "h": 55,
+              "text": "Good company",
+              "font": {
+                "family": "Instrument Serif",
+                "style": "Regular"
+              },
+              "size": 38,
+              "link": null
+            },
+            {
+              "id": "108:262",
+              "name": "AI Student Panel: Addi McCune, Aiden Sanchez, Angela Bustos, Ethan Janes",
+              "w": 500,
+              "h": 50,
+              "text": "AI Student Panel: Addi McCune, Aiden Sanchez, Angela Bustos, Ethan Janes",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 17,
+              "link": null
+            }
+          ]
+        },
+        {
+          "id": "108:263",
+          "name": "Tools",
+          "w": 500,
+          "h": 104,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "108:264",
+              "name": "In my toolkit",
+              "w": 500,
+              "h": 55,
+              "text": "In my toolkit",
+              "font": {
+                "family": "Instrument Serif",
+                "style": "Regular"
+              },
+              "size": 38,
+              "link": null
+            },
+            {
+              "id": "108:265",
+              "name": "AI literacy · micro:bits · Computer science education",
+              "w": 500,
+              "h": 25,
+              "text": "AI literacy · micro:bits · Computer science education",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 17,
+              "link": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "108:266",
+      "name": "More photos",
+      "w": 1024,
+      "h": 330.05194091796875,
+      "layout": "VERTICAL",
+      "children": [
+        {
+          "id": "108:267",
+          "name": "A few more memories",
+          "w": 1024,
+          "h": 55,
+          "text": "A few more memories",
+          "font": {
+            "family": "Instrument Serif",
+            "style": "Regular"
+          },
+          "size": 38,
+          "link": null
+        },
+        {
+          "id": "108:285",
+          "name": "Event photo gallery",
+          "w": 1024,
+          "h": 251.05194091796875,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "108:286",
+              "name": "Frame",
+              "w": 1024,
+              "h": 251.05194091796875,
+              "layout": "HORIZONTAL",
+              "children": [
+                {
+                  "id": "108:287",
+                  "name": "Event photo 7",
+                  "w": 325,
+                  "h": 251.05194091796875,
+                  "image": true,
+                  "src": "/assets/we-teach-55890.webp",
+                  "crop": "absolute inset-0 max-w-none object-contain pointer-events-none rounded-[12px] size-full"
+                },
+                {
+                  "id": "108:288",
+                  "name": "Event photo 8",
+                  "w": 325,
+                  "h": 182.8125,
+                  "image": true,
+                  "src": "/assets/we-teach-8933f.webp",
+                  "crop": "absolute inset-0 max-w-none object-contain pointer-events-none rounded-[12px] size-full"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

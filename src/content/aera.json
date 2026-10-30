@@ -1,0 +1,430 @@
+{
+  "id": "108:513",
+  "name": "Postcard / AERA 2026",
+  "w": 1120,
+  "h": 2603.800048828125,
+  "layout": "VERTICAL",
+  "children": [
+    {
+      "id": "108:514",
+      "name": "← All postcards",
+      "w": 1024,
+      "h": 17,
+      "text": "← All postcards",
+      "font": {
+        "family": "Inter",
+        "style": "Regular",
+        "variationSettings": {
+          "wght": 400,
+          "slnt": 0
+        }
+      },
+      "size": 12,
+      "link": null
+    },
+    {
+      "id": "108:515",
+      "name": "Event header",
+      "w": 1024,
+      "h": 152,
+      "layout": "HORIZONTAL",
+      "children": [
+        {
+          "id": "108:516",
+          "name": "Event identity",
+          "w": 780,
+          "h": 137,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "108:517",
+              "name": "A POSTCARD FROM",
+              "w": 780,
+              "h": 17,
+              "text": "A POSTCARD FROM",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 12,
+              "link": null
+            },
+            {
+              "id": "108:518",
+              "name": "Your event name",
+              "w": 780,
+              "h": 75,
+              "text": "AERA 2026",
+              "font": {
+                "family": "Instrument Serif",
+                "style": "Regular"
+              },
+              "size": 68,
+              "link": null
+            },
+            {
+              "id": "108:519",
+              "name": "Month DD, YYYY · City, State",
+              "w": 780,
+              "h": 25,
+              "text": "April 8–12, 2026  ·  Los Angeles, CA",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 17,
+              "link": null
+            }
+          ]
+        },
+        {
+          "id": "108:520",
+          "name": "Event type / Hackathon, Conference, Program, Retreat",
+          "w": 172,
+          "h": 152,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "I108:520;52:145",
+              "name": "FROM THE FIELD",
+              "w": 148,
+              "h": 17,
+              "text": "FROM THE FIELD",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 12,
+              "link": null
+            },
+            {
+              "id": "I108:520;52:146",
+              "name": "Hackathon",
+              "w": 148,
+              "h": 42,
+              "text": "Conference",
+              "font": {
+                "family": "Instrument Serif",
+                "style": "Regular"
+              },
+              "size": 29,
+              "link": null
+            },
+            {
+              "id": "I108:520;52:147",
+              "name": "HAILEY’S POSTCARDS",
+              "w": 148,
+              "h": 13,
+              "text": "HAILEY’S POSTCARDS",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 9,
+              "link": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "108:521",
+      "name": "COVER / Replace fill with horizontal event photo",
+      "w": 1024,
+      "h": 576,
+      "image": true,
+      "src": "/assets/aera-02f23.webp",
+      "crop": "absolute inset-0 max-w-none object-contain pointer-events-none rounded-[12px] size-full"
+    },
+    {
+      "id": "108:523",
+      "name": "Postcard message",
+      "w": 1024,
+      "h": 404,
+      "layout": "HORIZONTAL",
+      "children": [
+        {
+          "id": "108:524",
+          "name": "Overview",
+          "w": 620,
+          "h": 404,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "108:525",
+              "name": "Dear reader,",
+              "w": 620,
+              "h": 55,
+              "text": "Dear reader,",
+              "font": {
+                "family": "Instrument Serif",
+                "style": "Italic"
+              },
+              "size": 38,
+              "link": null
+            },
+            {
+              "id": "108:526",
+              "name": "I attended the 2026 AERA Annual Meeting in Los Angeles—my first research conference! Being part of such a large gathering of researchers and educators gave me a wider view of the questions shaping education. Sessions on AI, ethics, and K–12 computing education connected closely to my interests in AI literacy. They pushed me to think about how we can help students understand what AI is, question its limitations, and consider its impact on people and communities. I also connected with a fellow Pathways scholar in graduate school. That conversation made the conference feel more personal and gave me space to reflect on my own path in research. I left grateful, curious, and with plenty of new questions.",
+              "w": 620,
+              "h": 325,
+              "text": "I attended the 2026 AERA Annual Meeting in Los Angeles—my first research conference! Being part of such a large gathering of researchers and educators gave me a wider view of the questions shaping education.\n\nSessions on AI, ethics, and K–12 computing education connected closely to my interests in AI literacy. They pushed me to think about how we can help students understand what AI is, question its limitations, and consider its impact on people and communities.\n\nI also connected with a fellow Pathways scholar in graduate school. That conversation made the conference feel more personal and gave me space to reflect on my own path in research. I left grateful, curious, and with plenty of new questions.",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 17,
+              "link": null
+            }
+          ]
+        },
+        {
+          "id": "108:528",
+          "name": "Highlights",
+          "w": 380,
+          "h": 379,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "108:529",
+              "name": "The moments I’m keeping",
+              "w": 380,
+              "h": 55,
+              "text": "The moments I’m keeping",
+              "font": {
+                "family": "Instrument Serif",
+                "style": "Regular"
+              },
+              "size": 38,
+              "link": null
+            },
+            {
+              "id": "108:530",
+              "name": "Exploring how AI ethics connects classroom learning to broader social, environmental, and economic questions. Considering how generative AI in creative writing and schoolwork might affect equity, creativity, and student well-being—even when tools are presented as safe or helpful. Hearing how AI could support inquiry and reflection, while recognizing why students need room for their own ideas and judgment.",
+              "w": 380,
+              "h": 300,
+              "text": "Exploring how AI ethics connects classroom learning to broader social, environmental, and economic questions.\n\nConsidering how generative AI in creative writing and schoolwork might affect equity, creativity, and student well-being—even when tools are presented as safe or helpful.\n\nHearing how AI could support inquiry and reflection, while recognizing why students need room for their own ideas and judgment.",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 17,
+              "link": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "108:532",
+      "name": "People and tools",
+      "w": 1024,
+      "h": 104,
+      "layout": "HORIZONTAL",
+      "children": [
+        {
+          "id": "108:533",
+          "name": "Team",
+          "w": 500,
+          "h": 104,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "108:534",
+              "name": "Good company",
+              "w": 500,
+              "h": 55,
+              "text": "Good company",
+              "font": {
+                "family": "Instrument Serif",
+                "style": "Regular"
+              },
+              "size": 38,
+              "link": null
+            },
+            {
+              "id": "108:535",
+              "name": "P20 IES Pathways",
+              "w": 500,
+              "h": 25,
+              "text": "P20 IES Pathways",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 17,
+              "link": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "108:539",
+      "name": "More photos",
+      "w": 1024,
+      "h": 1043.800048828125,
+      "layout": "VERTICAL",
+      "children": [
+        {
+          "id": "108:540",
+          "name": "A few more memories",
+          "w": 1024,
+          "h": 55,
+          "text": "A few more memories",
+          "font": {
+            "family": "Instrument Serif",
+            "style": "Regular"
+          },
+          "size": 38,
+          "link": null
+        },
+        {
+          "id": "108:558",
+          "name": "Event photo gallery",
+          "w": 1024,
+          "h": 964.7999877929688,
+          "layout": "HORIZONTAL",
+          "children": [
+            {
+              "id": "119:444",
+              "name": "Photo column 1",
+              "w": 325,
+              "h": 963.9000244140625,
+              "layout": "VERTICAL",
+              "children": [
+                {
+                  "id": "108:560",
+                  "name": "Event photo 42",
+                  "w": 325,
+                  "h": 183.89999389648438,
+                  "image": true,
+                  "src": "/assets/aera-1c480.webp",
+                  "crop": "absolute h-[106%] left-[-3%] max-w-none top-[-3%] w-[105.99%]"
+                },
+                {
+                  "id": "108:566",
+                  "name": "Event photo 47",
+                  "w": 325,
+                  "h": 390,
+                  "image": true,
+                  "src": "/assets/aera-55515.webp",
+                  "crop": "absolute h-[148.15%] left-0 max-w-none top-[-14.22%] w-full"
+                },
+                {
+                  "id": "108:561",
+                  "name": "Event photo 43",
+                  "w": 325,
+                  "h": 350,
+                  "image": true,
+                  "src": "/assets/aera-1fb36.webp",
+                  "crop": "absolute h-[165.08%] left-0 max-w-none top-[-55.43%] w-full"
+                }
+              ]
+            },
+            {
+              "id": "119:445",
+              "name": "Photo column 2",
+              "w": 325,
+              "h": 964.7999877929688,
+              "layout": "VERTICAL",
+              "children": [
+                {
+                  "id": "108:564",
+                  "name": "Event photo 45",
+                  "w": 325,
+                  "h": 182.8000030517578,
+                  "image": true,
+                  "src": "/assets/aera-d9756.webp",
+                  "crop": "absolute inset-0 max-w-none object-contain pointer-events-none rounded-[12px] size-full"
+                },
+                {
+                  "id": "108:565",
+                  "name": "Event photo 46",
+                  "w": 325,
+                  "h": 390,
+                  "image": true,
+                  "src": "/assets/aera-0dcfe.webp",
+                  "crop": "absolute h-[148.15%] left-0 max-w-none top-[-20.63%] w-full"
+                },
+                {
+                  "id": "108:568",
+                  "name": "Event photo 48",
+                  "w": 325,
+                  "h": 352,
+                  "image": true,
+                  "src": "/assets/aera-64f7d.webp",
+                  "crop": "absolute h-[164.14%] left-0 max-w-none top-[-29.39%] w-full"
+                }
+              ]
+            },
+            {
+              "id": "119:446",
+              "name": "Photo column 3",
+              "w": 325,
+              "h": 964,
+              "layout": "VERTICAL",
+              "children": [
+                {
+                  "id": "108:562",
+                  "name": "Event photo 44",
+                  "w": 325,
+                  "h": 361,
+                  "image": true,
+                  "src": "/assets/aera-03e75.webp",
+                  "crop": "absolute h-[160.05%] left-0 max-w-none top-[-27.25%] w-full"
+                },
+                {
+                  "id": "108:569",
+                  "name": "Event photo 49",
+                  "w": 325,
+                  "h": 384,
+                  "image": true,
+                  "src": "/assets/aera-44549.webp",
+                  "crop": "absolute h-[105.82%] left-0 max-w-none top-[-6.04%] w-full"
+                },
+                {
+                  "id": "108:570",
+                  "name": "Event photo 50",
+                  "w": 325,
+                  "h": 179,
+                  "image": true,
+                  "src": "/assets/aera-0e718.webp",
+                  "crop": "absolute h-[322.78%] left-0 max-w-none top-[-95.22%] w-full"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

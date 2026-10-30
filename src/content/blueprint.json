@@ -1,0 +1,837 @@
+{
+  "id": "148:514",
+  "name": "Case study content",
+  "w": 1088,
+  "h": 5220.60009765625,
+  "layout": "VERTICAL",
+  "children": [
+    {
+      "id": "148:515",
+      "name": "Project introduction",
+      "w": 1088,
+      "h": 267,
+      "layout": "VERTICAL",
+      "children": [
+        {
+          "id": "148:516",
+          "name": "← Selected works",
+          "w": 1088,
+          "h": 17,
+          "text": "← Selected works",
+          "font": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "wght": 400,
+              "slnt": 0
+            }
+          },
+          "size": 12,
+          "link": null
+        },
+        {
+          "id": "148:518",
+          "name": "HACKATHON BUILD · LEARNING THROUGH PROJECTS",
+          "w": 1088,
+          "h": 17,
+          "text": "HACKATHON BUILD · LEARNING THROUGH PROJECTS",
+          "font": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "wght": 400,
+              "slnt": 0
+            }
+          },
+          "size": 12,
+          "link": null
+        },
+        {
+          "id": "148:519",
+          "name": "BluePrint",
+          "w": 1088,
+          "h": 104,
+          "text": "BluePrint",
+          "font": {
+            "family": "Instrument Serif",
+            "style": "Regular"
+          },
+          "size": 72,
+          "link": null
+        },
+        {
+          "id": "148:520",
+          "name": "Don’t build it for me. Help me learn how to build it.",
+          "w": 870,
+          "h": 32,
+          "text": "Don’t build it for me. Help me learn how to build it.",
+          "font": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "wght": 400,
+              "slnt": 0
+            }
+          },
+          "size": 22,
+          "link": null
+        },
+        {
+          "id": "148:521",
+          "name": "MY CONTRIBUTION Interface design & iteration / CONTEXT RowdyHacks XII / PLATFORM Web",
+          "w": 1088,
+          "h": 25,
+          "text": "MY CONTRIBUTION  Interface design & iteration     /     CONTEXT  RowdyHacks XII     /     PLATFORM  Web",
+          "font": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "wght": 400,
+              "slnt": 0
+            }
+          },
+          "size": 17,
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": "148:522",
+      "name": "Evidence / blue-home",
+      "w": 1088,
+      "h": 616.60302734375,
+      "layout": "VERTICAL",
+      "children": [
+        {
+          "id": "148:523",
+          "name": "Project image / blue-home",
+          "w": 1088,
+          "h": 587.60302734375,
+          "image": true,
+          "src": "/assets/blueprint-1c8bf.webp",
+          "crop": "absolute inset-0 max-w-none object-cover pointer-events-none rounded-[12px] size-full"
+        },
+        {
+          "id": "148:524",
+          "name": "The build bulletin · A mission-inspired visual direction",
+          "w": 1088,
+          "h": 17,
+          "text": "The build bulletin · A mission-inspired visual direction",
+          "font": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "wght": 400,
+              "slnt": 0
+            }
+          },
+          "size": 12,
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": "148:525",
+      "name": "The idea",
+      "w": 1088,
+      "h": 188,
+      "layout": "HORIZONTAL",
+      "children": [
+        {
+          "id": "148:526",
+          "name": "Case study / Narrative section",
+          "w": 524,
+          "h": 163,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "I148:526;147:265",
+              "name": "Project section",
+              "w": 524,
+              "h": 55,
+              "text": "From “what should I build?”",
+              "font": {
+                "family": "Instrument Serif",
+                "style": "Regular"
+              },
+              "size": 38,
+              "link": null
+            },
+            {
+              "id": "I148:526;147:266",
+              "name": "Project story",
+              "w": 524,
+              "h": 100,
+              "text": "Technical learners have plenty of tutorials, repositories, and AI tools. The harder part can be choosing a project, knowing where to start, and following through. Our team built BluePrint to turn that uncertainty into a project with a direction.",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 17,
+              "link": null
+            }
+          ]
+        },
+        {
+          "id": "148:529",
+          "name": "Case study / Narrative section",
+          "w": 524,
+          "h": 188,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "I148:529;147:265",
+              "name": "Project section",
+              "w": 524,
+              "h": 55,
+              "text": "My part in the process",
+              "font": {
+                "family": "Instrument Serif",
+                "style": "Regular"
+              },
+              "size": 38,
+              "link": null
+            },
+            {
+              "id": "I148:529;147:266",
+              "name": "Project story",
+              "w": 524,
+              "h": 125,
+              "text": "I explored roughly four design iterations during the hackathon, working through wireframes and competing visual directions in Figma. The interface evolved toward a stronger identity inspired by the event’s heist theme: each project becomes a mission with a plan.",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 17,
+              "link": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "148:532",
+      "name": "Case study / Narrative section",
+      "w": 1088,
+      "h": 113,
+      "layout": "VERTICAL",
+      "children": [
+        {
+          "id": "I148:532;147:265",
+          "name": "Project section",
+          "w": 1088,
+          "h": 55,
+          "text": "Guidance that keeps the learner involved",
+          "font": {
+            "family": "Instrument Serif",
+            "style": "Regular"
+          },
+          "size": 38,
+          "link": null
+        },
+        {
+          "id": "I148:532;147:266",
+          "name": "Project story",
+          "w": 1088,
+          "h": 50,
+          "text": "BluePrint connects project discovery, planning, mentorship, and progress tracking. The central design principle is to help someone understand their next step while keeping them responsible for building the project.",
+          "font": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "wght": 400,
+              "slnt": 0
+            }
+          },
+          "size": 17,
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": "148:535",
+      "name": "Discover and plan",
+      "w": 1088,
+      "h": 469,
+      "layout": "HORIZONTAL",
+      "children": [
+        {
+          "id": "148:536",
+          "name": "Evidence / blue-discover",
+          "w": 528,
+          "h": 403,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "148:537",
+              "name": "Project image / blue-discover",
+              "w": 528,
+              "h": 374,
+              "image": true,
+              "src": "/assets/blueprint-7b7c4.webp",
+              "crop": "absolute inset-0 max-w-none object-contain pointer-events-none rounded-[12px] size-full"
+            },
+            {
+              "id": "148:538",
+              "name": "Discover · Find a project that fits your interests",
+              "w": 528,
+              "h": 17,
+              "text": "Discover · Find a project that fits your interests",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 12,
+              "link": null
+            }
+          ]
+        },
+        {
+          "id": "148:539",
+          "name": "Evidence / blue-plan",
+          "w": 528,
+          "h": 469,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "148:540",
+              "name": "Project image / blue-plan",
+              "w": 528,
+              "h": 440,
+              "image": true,
+              "src": "/assets/blueprint-75cba.webp",
+              "crop": "absolute inset-0 max-w-none object-contain pointer-events-none rounded-[12px] size-full"
+            },
+            {
+              "id": "148:541",
+              "name": "Plan · Turn your own idea into a structured starting point",
+              "w": 528,
+              "h": 17,
+              "text": "Plan · Turn your own idea into a structured starting point",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 12,
+              "link": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "148:542",
+      "name": "Case study / Narrative section",
+      "w": 1088,
+      "h": 113,
+      "layout": "VERTICAL",
+      "children": [
+        {
+          "id": "I148:542;147:265",
+          "name": "Project section",
+          "w": 1088,
+          "h": 55,
+          "text": "Sketching before polishing",
+          "font": {
+            "family": "Instrument Serif",
+            "style": "Regular"
+          },
+          "size": 38,
+          "link": null
+        },
+        {
+          "id": "I148:542;147:266",
+          "name": "Project story",
+          "w": 1088,
+          "h": 50,
+          "text": "We reconsidered the initial interface about five hours into development. The process involved sketches, visual experiments, and scope decisions under a deadline. These early artifacts show how the product’s structure and personality developed.",
+          "font": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "wght": 400,
+              "slnt": 0
+            }
+          },
+          "size": 17,
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": "148:545",
+      "name": "Evidence / kix.1tw3mah1wgoc",
+      "w": 1088,
+      "h": 834,
+      "layout": "VERTICAL",
+      "children": [
+        {
+          "id": "148:546",
+          "name": "Project image / kix.1tw3mah1wgoc",
+          "w": 1088,
+          "h": 805,
+          "image": true,
+          "src": "/assets/blueprint-9a18e.webp",
+          "crop": "absolute h-[109.62%] left-0 max-w-none top-[0.09%] w-full"
+        },
+        {
+          "id": "148:547",
+          "name": "Early wireframes · Exploring the main project-building flow",
+          "w": 1088,
+          "h": 17,
+          "text": "Early wireframes · Exploring the main project-building flow",
+          "font": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "wght": 400,
+              "slnt": 0
+            }
+          },
+          "size": 12,
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": "200:2025",
+      "name": "Group 1548",
+      "w": 1088.0003662109375,
+      "h": 506.6670837402344,
+      "children": [
+        {
+          "id": "200:1994",
+          "name": "image 31",
+          "w": 526.7718505859375,
+          "h": 479.4974365234375,
+          "image": true,
+          "src": "/assets/blueprint-8c48e.webp",
+          "crop": "absolute h-[100.76%] left-[-28.32%] max-w-none top-[-0.76%] w-[134.36%]"
+        },
+        {
+          "id": "200:1997",
+          "name": "image 32",
+          "w": 534.434814453125,
+          "h": 479.572509765625,
+          "image": true,
+          "src": "/assets/blueprint-323d4.webp",
+          "crop": "absolute h-[103.86%] left-[-26.19%] max-w-none top-0 w-[132.92%]"
+        },
+        {
+          "id": "200:2021",
+          "name": "An early visual direction",
+          "w": 509.2765808105469,
+          "h": 16.532320022583008,
+          "text": "An early visual direction",
+          "font": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "wght": 400,
+              "slnt": 0
+            }
+          },
+          "size": 12,
+          "link": null
+        },
+        {
+          "id": "200:2023",
+          "name": "File Folder Ideation",
+          "w": 509.2765808105469,
+          "h": 16.532320022583008,
+          "text": "File Folder Ideation",
+          "font": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "wght": 400,
+              "slnt": 0
+            }
+          },
+          "size": 12,
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": "148:555",
+      "name": "Case study / Narrative section",
+      "w": 1088,
+      "h": 138,
+      "layout": "VERTICAL",
+      "children": [
+        {
+          "id": "I148:555;147:265",
+          "name": "Project section",
+          "w": 1088,
+          "h": 55,
+          "text": "Turning a plan into something actionable",
+          "font": {
+            "family": "Instrument Serif",
+            "style": "Regular"
+          },
+          "size": 38,
+          "link": null
+        },
+        {
+          "id": "I148:555;147:266",
+          "name": "Project story",
+          "w": 1088,
+          "h": 75,
+          "text": "The team built the web application with Next.js, TypeScript, and Tailwind CSS. GitHub data supports project discovery; Gemini supports planning and mentorship; ElevenLabs adds voice interaction. Project dashboards bring tasks and progress into the same experience.",
+          "font": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "wght": 400,
+              "slnt": 0
+            }
+          },
+          "size": 17,
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": "148:558",
+      "name": "Evidence / blue-board",
+      "w": 1088,
+      "h": 822.3300170898438,
+      "layout": "VERTICAL",
+      "children": [
+        {
+          "id": "148:559",
+          "name": "Project image / blue-board",
+          "w": 1088,
+          "h": 793.3300170898438,
+          "image": true,
+          "src": "/assets/blueprint-b7068.webp",
+          "crop": "absolute inset-0 max-w-none object-contain pointer-events-none rounded-[12px] size-full"
+        },
+        {
+          "id": "148:560",
+          "name": "Project workspace · Tasks, progress, and learning guidance",
+          "w": 1088,
+          "h": 17,
+          "text": "Project workspace · Tasks, progress, and learning guidance",
+          "font": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "wght": 400,
+              "slnt": 0
+            }
+          },
+          "size": 12,
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": "148:561",
+      "name": "Lessons from the build",
+      "w": 1088,
+      "h": 188,
+      "layout": "HORIZONTAL",
+      "children": [
+        {
+          "id": "148:562",
+          "name": "Case study / Narrative section",
+          "w": 524,
+          "h": 188,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "I148:562;147:265",
+              "name": "Project section",
+              "w": 524,
+              "h": 55,
+              "text": "The hard parts",
+              "font": {
+                "family": "Instrument Serif",
+                "style": "Regular"
+              },
+              "size": 38,
+              "link": null
+            },
+            {
+              "id": "I148:562;147:266",
+              "name": "Project story",
+              "w": 524,
+              "h": 125,
+              "text": "The team had to shape AI output so it could support the interface, coordinate changes across branches, recover from deployment problems, and choose which features belonged in the core experience. Clear communication mattered as much as the tools.",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 17,
+              "link": null
+            }
+          ]
+        },
+        {
+          "id": "148:565",
+          "name": "Case study / Narrative section",
+          "w": 524,
+          "h": 163,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "I148:565;147:265",
+              "name": "Project section",
+              "w": 524,
+              "h": 55,
+              "text": "What I’m taking forward",
+              "font": {
+                "family": "Instrument Serif",
+                "style": "Regular"
+              },
+              "size": 38,
+              "link": null
+            },
+            {
+              "id": "I148:565;147:266",
+              "name": "Project story",
+              "w": 524,
+              "h": 100,
+              "text": "A learning tool needs more than a fast answer. It needs a useful next step. I would keep refining the mentor’s guidance, test the onboarding and project flow with learners, and explore a wider range of projects and learning resources.",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 17,
+              "link": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "148:568",
+      "name": "Case study / Narrative section",
+      "w": 1088,
+      "h": 138,
+      "layout": "VERTICAL",
+      "children": [
+        {
+          "id": "I148:568;147:265",
+          "name": "Project section",
+          "w": 1088,
+          "h": 55,
+          "text": "A working hackathon build",
+          "font": {
+            "family": "Instrument Serif",
+            "style": "Regular"
+          },
+          "size": 38,
+          "link": null
+        },
+        {
+          "id": "I148:568;147:266",
+          "name": "Project story",
+          "w": 1088,
+          "h": 75,
+          "text": "BluePrint moved beyond a static concept into a working web application. The Figma screens document the design direction; the repository and deployed demo let visitors explore the implementation. This is a hackathon-stage product, with further usability evaluation still ahead.",
+          "font": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "wght": 400,
+              "slnt": 0
+            }
+          },
+          "size": 17,
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": "148:571",
+      "name": "Explore BluePrint",
+      "w": 1088,
+      "h": 123,
+      "layout": "VERTICAL",
+      "children": [
+        {
+          "id": "148:572",
+          "name": "Open the deployed demo ↗",
+          "w": 1088,
+          "h": 25,
+          "text": "Open the deployed demo ↗",
+          "font": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "wght": 400,
+              "slnt": 0
+            }
+          },
+          "size": 17,
+          "link": {
+            "type": "URL",
+            "value": "https://149-28-248-246.sslip.io/"
+          }
+        },
+        {
+          "id": "148:574",
+          "name": "View the GitHub repository ↗",
+          "w": 1088,
+          "h": 25,
+          "text": "View the GitHub repository ↗",
+          "font": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "wght": 400,
+              "slnt": 0
+            }
+          },
+          "size": 17,
+          "link": {
+            "type": "URL",
+            "value": "https://github.com/William-Chen07/Blueprint"
+          }
+        },
+        {
+          "id": "148:576",
+          "name": "Explore BluePrint FINAL in Figma ↗",
+          "w": 1088,
+          "h": 25,
+          "text": "Explore BluePrint FINAL in Figma ↗",
+          "font": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "wght": 400,
+              "slnt": 0
+            }
+          },
+          "size": 17,
+          "link": {
+            "type": "URL",
+            "value": "https://www.figma.com/design/XzmlMhtGwK3vkmmhZ2cmOu/BluePrint-FINAL?node-id=2-438"
+          }
+        }
+      ]
+    },
+    {
+      "id": "148:578",
+      "name": "Footer / Hailey Muñiz + social links",
+      "w": 1088,
+      "h": 80,
+      "layout": "HORIZONTAL",
+      "children": [
+        {
+          "id": "I148:578;100:344",
+          "name": "Full name",
+          "w": 121,
+          "h": 28,
+          "text": "Hailey Muñiz",
+          "font": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "wght": 400,
+              "slnt": 0
+            }
+          },
+          "size": 20,
+          "link": null
+        },
+        {
+          "id": "I148:578;100:345",
+          "name": "Social profiles",
+          "w": 251,
+          "h": 20,
+          "layout": "HORIZONTAL",
+          "children": [
+            {
+              "id": "I148:578;100:346",
+              "name": "Figma ↗",
+              "w": 58,
+              "h": 20,
+              "text": "Figma ↗",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 14,
+              "link": {
+                "type": "URL",
+                "value": "https://www.figma.com/@haileymbella"
+              }
+            },
+            {
+              "id": "I148:578;100:348",
+              "name": "GitHub ↗",
+              "w": 64,
+              "h": 20,
+              "text": "GitHub ↗",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 14,
+              "link": {
+                "type": "URL",
+                "value": "https://github.com/haileybella"
+              }
+            },
+            {
+              "id": "I148:578;100:350",
+              "name": "LinkedIn ↗",
+              "w": 73,
+              "h": 20,
+              "text": "LinkedIn ↗",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 14,
+              "link": {
+                "type": "URL",
+                "value": "https://www.linkedin.com/in/haileymuniz"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

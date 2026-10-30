@@ -1,0 +1,579 @@
+{
+  "id": "148:585",
+  "name": "Case study content",
+  "w": 1088,
+  "h": 3114.60302734375,
+  "layout": "VERTICAL",
+  "children": [
+    {
+      "id": "148:586",
+      "name": "Project introduction",
+      "w": 1088,
+      "h": 267,
+      "layout": "VERTICAL",
+      "children": [
+        {
+          "id": "148:587",
+          "name": "← Selected works",
+          "w": 1088,
+          "h": 17,
+          "text": "← Selected works",
+          "font": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "wght": 400,
+              "slnt": 0
+            }
+          },
+          "size": 12,
+          "link": null
+        },
+        {
+          "id": "148:589",
+          "name": "PERSONAL UI EXPLORATION · MADE OUT OF CURIOSITY",
+          "w": 1088,
+          "h": 17,
+          "text": "PERSONAL UI EXPLORATION · MADE OUT OF CURIOSITY",
+          "font": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "wght": 400,
+              "slnt": 0
+            }
+          },
+          "size": 12,
+          "link": null
+        },
+        {
+          "id": "148:590",
+          "name": "TrailWatch",
+          "w": 1088,
+          "h": 104,
+          "text": "TrailWatch",
+          "font": {
+            "family": "Instrument Serif",
+            "style": "Regular"
+          },
+          "size": 72,
+          "link": null
+        },
+        {
+          "id": "148:591",
+          "name": "A small idea for getting outside—and paying closer attention.",
+          "w": 870,
+          "h": 32,
+          "text": "A small idea for getting outside—and paying closer attention.",
+          "font": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "wght": 400,
+              "slnt": 0
+            }
+          },
+          "size": 22,
+          "link": null
+        },
+        {
+          "id": "148:592",
+          "name": "ROLE UI Designer / TOOLS Figma / STATUS Mobile design concept",
+          "w": 1088,
+          "h": 25,
+          "text": "ROLE  UI Designer     /     TOOLS  Figma     /     STATUS  Mobile design concept",
+          "font": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "wght": 400,
+              "slnt": 0
+            }
+          },
+          "size": 17,
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": "168:485",
+      "name": "TrailWatch — Cover",
+      "w": 1088,
+      "h": 587.60302734375,
+      "cover": true
+    },
+    {
+      "id": "148:593",
+      "name": "Case study / Narrative section",
+      "w": 1088,
+      "h": 113,
+      "layout": "VERTICAL",
+      "children": [
+        {
+          "id": "I148:593;147:265",
+          "name": "Project section",
+          "w": 1088,
+          "h": 55,
+          "text": "It started with wanting to make something",
+          "font": {
+            "family": "Instrument Serif",
+            "style": "Regular"
+          },
+          "size": 38,
+          "link": null
+        },
+        {
+          "id": "I148:593;147:266",
+          "name": "Project story",
+          "w": 1088,
+          "h": 50,
+          "text": "I made TrailWatch for fun, inspired by the idea of encouraging people to spend more time outside. It became a mobile interface for noticing changes along a local trail and keeping a record of what you see.",
+          "font": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "wght": 400,
+              "slnt": 0
+            }
+          },
+          "size": 17,
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": "148:596",
+      "name": "Trail Watch screens",
+      "w": 1088,
+      "h": 759,
+      "layout": "HORIZONTAL",
+      "children": [
+        {
+          "id": "148:597",
+          "name": "Evidence / trail-trends",
+          "w": 336,
+          "h": 759,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "148:598",
+              "name": "Project image / trail-trends",
+              "w": 336,
+              "h": 730,
+              "image": true,
+              "src": "/assets/trailwatch-721e3.webp",
+              "crop": "absolute inset-0 max-w-none object-contain pointer-events-none rounded-[12px] size-full"
+            },
+            {
+              "id": "148:599",
+              "name": "A quick view of a trail’s recent observations",
+              "w": 336,
+              "h": 17,
+              "text": "A quick view of a trail’s recent observations",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 12,
+              "link": null
+            }
+          ]
+        },
+        {
+          "id": "148:600",
+          "name": "Evidence / trail-data",
+          "w": 336,
+          "h": 759,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "148:601",
+              "name": "Project image / trail-data",
+              "w": 336,
+              "h": 730,
+              "image": true,
+              "src": "/assets/trailwatch-577b3.webp",
+              "crop": "absolute inset-0 max-w-none object-contain pointer-events-none rounded-[12px] size-full"
+            },
+            {
+              "id": "148:602",
+              "name": "Record birds, insects, plants, litter, and notes",
+              "w": 336,
+              "h": 17,
+              "text": "Record birds, insects, plants, litter, and notes",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 12,
+              "link": null
+            }
+          ]
+        },
+        {
+          "id": "148:603",
+          "name": "Evidence / trail-notes",
+          "w": 336,
+          "h": 759,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "148:604",
+              "name": "Project image / trail-notes",
+              "w": 336,
+              "h": 730,
+              "image": true,
+              "src": "/assets/trailwatch-47554.webp",
+              "crop": "absolute inset-0 max-w-none object-contain pointer-events-none rounded-[12px] size-full"
+            },
+            {
+              "id": "148:605",
+              "name": "Return to observations from an earlier visit",
+              "w": 336,
+              "h": 17,
+              "text": "Return to observations from an earlier visit",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 12,
+              "link": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "148:606",
+      "name": "Design intention",
+      "w": 1088,
+      "h": 188,
+      "layout": "HORIZONTAL",
+      "children": [
+        {
+          "id": "148:607",
+          "name": "Case study / Narrative section",
+          "w": 524,
+          "h": 163,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "I148:607;147:265",
+              "name": "Project section",
+              "w": 524,
+              "h": 55,
+              "text": "The direction I explored",
+              "font": {
+                "family": "Instrument Serif",
+                "style": "Regular"
+              },
+              "size": 38,
+              "link": null
+            },
+            {
+              "id": "I148:607;147:266",
+              "name": "Project story",
+              "w": 524,
+              "h": 100,
+              "text": "Soft greens, warm neutrals, and landscape-like textures give the interface an outdoor feel. The concept connects a trail overview with simple observation inputs and past notes, making a small act of noticing the center of the experience.",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 17,
+              "link": null
+            }
+          ]
+        },
+        {
+          "id": "148:610",
+          "name": "Case study / Narrative section",
+          "w": 524,
+          "h": 188,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "I148:610;147:265",
+              "name": "Project section",
+              "w": 524,
+              "h": 55,
+              "text": "An exploration with room to grow",
+              "font": {
+                "family": "Instrument Serif",
+                "style": "Regular"
+              },
+              "size": 38,
+              "link": null
+            },
+            {
+              "id": "I148:610;147:266",
+              "name": "Project story",
+              "w": 524,
+              "h": 125,
+              "text": "This was a personal design exercise rather than a full research-led UX project. I focused on the screens and visual direction. A next step would be to talk with walkers and hikers, test an observation flow outdoors, and learn which information they would actually want to record.",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 17,
+              "link": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "148:613",
+      "name": "Supporting screens",
+      "w": 1088,
+      "h": 759,
+      "layout": "HORIZONTAL",
+      "children": [
+        {
+          "id": "148:614",
+          "name": "Evidence / trail-manage",
+          "w": 336,
+          "h": 759,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "148:615",
+              "name": "Project image / trail-manage",
+              "w": 336,
+              "h": 730,
+              "image": true,
+              "src": "/assets/trailwatch-fb4e5.webp",
+              "crop": "absolute inset-0 max-w-none object-contain pointer-events-none rounded-[12px] size-full"
+            },
+            {
+              "id": "148:616",
+              "name": "Manage trails",
+              "w": 336,
+              "h": 17,
+              "text": "Manage trails",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 12,
+              "link": null
+            }
+          ]
+        },
+        {
+          "id": "148:617",
+          "name": "Evidence / trail-home",
+          "w": 336,
+          "h": 759,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "148:618",
+              "name": "Project image / trail-home",
+              "w": 336,
+              "h": 730,
+              "image": true,
+              "src": "/assets/trailwatch-daf0c.webp",
+              "crop": "absolute inset-0 max-w-none object-contain pointer-events-none rounded-[12px] size-full"
+            },
+            {
+              "id": "148:619",
+              "name": "A simple profile",
+              "w": 336,
+              "h": 17,
+              "text": "A simple profile",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 12,
+              "link": null
+            }
+          ]
+        },
+        {
+          "id": "148:620",
+          "name": "Case study / Narrative section",
+          "w": 336,
+          "h": 243,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "I148:620;147:265",
+              "name": "Project section",
+              "w": 336,
+              "h": 110,
+              "text": "Made for the joy of making",
+              "font": {
+                "family": "Instrument Serif",
+                "style": "Regular"
+              },
+              "size": 38,
+              "link": null
+            },
+            {
+              "id": "I148:620;147:266",
+              "name": "Project story",
+              "w": 336,
+              "h": 125,
+              "text": "Not every project starts with a brief. TrailWatch gave me space to follow an idea, practice interface design, and build something around my interest in getting outside.",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 17,
+              "link": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "148:623",
+      "name": "Explore TrailWatch in Figma ↗",
+      "w": 1088,
+      "h": 25,
+      "text": "Explore TrailWatch in Figma ↗",
+      "font": {
+        "family": "Inter",
+        "style": "Regular",
+        "variationSettings": {
+          "wght": 400,
+          "slnt": 0
+        }
+      },
+      "size": 17,
+      "link": {
+        "type": "URL",
+        "value": "https://www.figma.com/design/8Sn0kk2KUI6Mt9qd7dWFzB/TrailWatch?node-id=4-4"
+      }
+    },
+    {
+      "id": "148:625",
+      "name": "Footer / Hailey Muñiz + social links",
+      "w": 1088,
+      "h": 80,
+      "layout": "HORIZONTAL",
+      "children": [
+        {
+          "id": "I148:625;100:344",
+          "name": "Full name",
+          "w": 121,
+          "h": 28,
+          "text": "Hailey Muñiz",
+          "font": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "wght": 400,
+              "slnt": 0
+            }
+          },
+          "size": 20,
+          "link": null
+        },
+        {
+          "id": "I148:625;100:345",
+          "name": "Social profiles",
+          "w": 251,
+          "h": 20,
+          "layout": "HORIZONTAL",
+          "children": [
+            {
+              "id": "I148:625;100:346",
+              "name": "Figma ↗",
+              "w": 58,
+              "h": 20,
+              "text": "Figma ↗",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 14,
+              "link": {
+                "type": "URL",
+                "value": "https://www.figma.com/@haileymbella"
+              }
+            },
+            {
+              "id": "I148:625;100:348",
+              "name": "GitHub ↗",
+              "w": 64,
+              "h": 20,
+              "text": "GitHub ↗",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 14,
+              "link": {
+                "type": "URL",
+                "value": "https://github.com/haileybella"
+              }
+            },
+            {
+              "id": "I148:625;100:350",
+              "name": "LinkedIn ↗",
+              "w": 73,
+              "h": 20,
+              "text": "LinkedIn ↗",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 14,
+              "link": {
+                "type": "URL",
+                "value": "https://www.linkedin.com/in/haileymuniz"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

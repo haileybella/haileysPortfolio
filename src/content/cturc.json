@@ -1,0 +1,388 @@
+{
+  "id": "108:647",
+  "name": "Postcard / CTURC Conference 2026",
+  "w": 1120,
+  "h": 1700.309814453125,
+  "layout": "VERTICAL",
+  "children": [
+    {
+      "id": "108:648",
+      "name": "← All postcards",
+      "w": 1024,
+      "h": 17,
+      "text": "← All postcards",
+      "font": {
+        "family": "Inter",
+        "style": "Regular",
+        "variationSettings": {
+          "wght": 400,
+          "slnt": 0
+        }
+      },
+      "size": 12,
+      "link": null
+    },
+    {
+      "id": "108:649",
+      "name": "Event header",
+      "w": 1024,
+      "h": 152,
+      "layout": "HORIZONTAL",
+      "children": [
+        {
+          "id": "108:650",
+          "name": "Event identity",
+          "w": 780,
+          "h": 137,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "108:651",
+              "name": "A POSTCARD FROM",
+              "w": 780,
+              "h": 17,
+              "text": "A POSTCARD FROM",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 12,
+              "link": null
+            },
+            {
+              "id": "108:652",
+              "name": "Your event name",
+              "w": 780,
+              "h": 75,
+              "text": "CTURC Conference 2026",
+              "font": {
+                "family": "Instrument Serif",
+                "style": "Regular"
+              },
+              "size": 68,
+              "link": null
+            },
+            {
+              "id": "108:653",
+              "name": "Month DD, YYYY · City, State",
+              "w": 780,
+              "h": 25,
+              "text": "March 28, 2026  ·  Austin, TX",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 17,
+              "link": null
+            }
+          ]
+        },
+        {
+          "id": "108:654",
+          "name": "Event type / Hackathon, Conference, Program, Retreat",
+          "w": 172,
+          "h": 152,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "I108:654;52:145",
+              "name": "FROM THE FIELD",
+              "w": 148,
+              "h": 17,
+              "text": "FROM THE FIELD",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 12,
+              "link": null
+            },
+            {
+              "id": "I108:654;52:146",
+              "name": "Hackathon",
+              "w": 148,
+              "h": 42,
+              "text": "Conference",
+              "font": {
+                "family": "Instrument Serif",
+                "style": "Regular"
+              },
+              "size": 29,
+              "link": null
+            },
+            {
+              "id": "I108:654;52:147",
+              "name": "HAILEY’S POSTCARDS",
+              "w": 148,
+              "h": 13,
+              "text": "HAILEY’S POSTCARDS",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 9,
+              "link": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "108:655",
+      "name": "COVER / Replace fill with horizontal event photo",
+      "w": 1024,
+      "h": 620.279541015625,
+      "image": true,
+      "src": "/assets/cturc-88acf.webp",
+      "crop": "absolute h-[295.02%] left-0 max-w-none top-[-98.43%] w-full"
+    },
+    {
+      "id": "108:657",
+      "name": "Postcard message",
+      "w": 1024,
+      "h": 229,
+      "layout": "HORIZONTAL",
+      "children": [
+        {
+          "id": "108:658",
+          "name": "Overview",
+          "w": 620,
+          "h": 179,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "108:659",
+              "name": "Dear reader,",
+              "w": 620,
+              "h": 55,
+              "text": "Dear reader,",
+              "font": {
+                "family": "Instrument Serif",
+                "style": "Italic"
+              },
+              "size": 38,
+              "link": null
+            },
+            {
+              "id": "108:660",
+              "name": "[What brought you here? Describe the event, your role, and the idea or question you explored in a short personal note.]",
+              "w": 620,
+              "h": 100,
+              "text": "I gave my first poster presentation for my Pathways research at the Capital of Texas Undergraduate Research Conference at UT Austin. My literature review explores opaque-box and glass-box approaches to AI education and categorizes the tools students use.",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 17,
+              "link": null
+            }
+          ]
+        },
+        {
+          "id": "108:662",
+          "name": "Highlights",
+          "w": 380,
+          "h": 229,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "108:663",
+              "name": "The moments I’m keeping",
+              "w": 380,
+              "h": 55,
+              "text": "The moments I’m keeping",
+              "font": {
+                "family": "Instrument Serif",
+                "style": "Regular"
+              },
+              "size": 38,
+              "link": null
+            },
+            {
+              "id": "108:664",
+              "name": "[One thing you made or contributed] [One thing you learned] [A person, conversation, or moment that stayed with you]",
+              "w": 380,
+              "h": 150,
+              "text": "Presented “Opening the Opaque Box: A Scoping Review of K–12 AI Learning Through Games and Code.”\n\nShared my Pathways research in my first poster presentation.",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 17,
+              "link": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "108:666",
+      "name": "People and tools",
+      "w": 1024,
+      "h": 104,
+      "layout": "HORIZONTAL",
+      "children": [
+        {
+          "id": "108:667",
+          "name": "Team",
+          "w": 500,
+          "h": 104,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "108:668",
+              "name": "Good company",
+              "w": 500,
+              "h": 55,
+              "text": "Good company",
+              "font": {
+                "family": "Instrument Serif",
+                "style": "Regular"
+              },
+              "size": 38,
+              "link": null
+            },
+            {
+              "id": "108:669",
+              "name": "P20 IES Pathways",
+              "w": 500,
+              "h": 25,
+              "text": "P20 IES Pathways",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 17,
+              "link": null
+            }
+          ]
+        },
+        {
+          "id": "108:670",
+          "name": "Tools",
+          "w": 500,
+          "h": 104,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "108:671",
+              "name": "In my toolkit",
+              "w": 500,
+              "h": 55,
+              "text": "In my toolkit",
+              "font": {
+                "family": "Instrument Serif",
+                "style": "Regular"
+              },
+              "size": 38,
+              "link": null
+            },
+            {
+              "id": "108:672",
+              "name": "[Tools, technologies, or methods used]",
+              "w": 500,
+              "h": 25,
+              "text": "Literature review · AI education · Research communication",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 17,
+              "link": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "108:673",
+      "name": "More photos",
+      "w": 1024,
+      "h": 271.0302429199219,
+      "layout": "VERTICAL",
+      "children": [
+        {
+          "id": "108:674",
+          "name": "A few more memories",
+          "w": 1024,
+          "h": 55,
+          "text": "A few more memories",
+          "font": {
+            "family": "Instrument Serif",
+            "style": "Regular"
+          },
+          "size": 38,
+          "link": null
+        },
+        {
+          "id": "108:692",
+          "name": "Event photo gallery",
+          "w": 1024,
+          "h": 192.03024291992188,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "108:693",
+              "name": "Frame",
+              "w": 1024,
+              "h": 192.03024291992188,
+              "layout": "HORIZONTAL",
+              "children": [
+                {
+                  "id": "108:694",
+                  "name": "Event photo 52",
+                  "w": 325,
+                  "h": 186.81695556640625,
+                  "image": true,
+                  "src": "/assets/cturc-88acf.webp",
+                  "crop": "absolute h-[310.89%] left-0 max-w-none top-[-210.89%] w-full"
+                },
+                {
+                  "id": "108:695",
+                  "name": "Event photo 53",
+                  "w": 325,
+                  "h": 192.03024291992188,
+                  "image": true,
+                  "src": "/assets/cturc-88acf.webp",
+                  "crop": "absolute h-[302.45%] left-0 max-w-none top-0 w-full"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

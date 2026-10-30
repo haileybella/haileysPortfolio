@@ -1,0 +1,604 @@
+{
+  "id": "108:85",
+  "name": "Postcard / RowdyHacks XII",
+  "w": 1120,
+  "h": 2171.837890625,
+  "layout": "VERTICAL",
+  "children": [
+    {
+      "id": "108:86",
+      "name": "← All postcards",
+      "w": 1024,
+      "h": 17,
+      "text": "← All postcards",
+      "font": {
+        "family": "Inter",
+        "style": "Regular",
+        "variationSettings": {
+          "wght": 400,
+          "slnt": 0
+        }
+      },
+      "size": 12,
+      "link": null
+    },
+    {
+      "id": "108:87",
+      "name": "Event header",
+      "w": 1024,
+      "h": 152,
+      "layout": "HORIZONTAL",
+      "children": [
+        {
+          "id": "108:88",
+          "name": "Event identity",
+          "w": 780,
+          "h": 137,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "108:89",
+              "name": "A POSTCARD FROM",
+              "w": 780,
+              "h": 17,
+              "text": "A POSTCARD FROM",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 12,
+              "link": null
+            },
+            {
+              "id": "108:90",
+              "name": "Your event name",
+              "w": 780,
+              "h": 75,
+              "text": "RowdyHacks XII",
+              "font": {
+                "family": "Instrument Serif",
+                "style": "Regular"
+              },
+              "size": 68,
+              "link": null
+            },
+            {
+              "id": "108:91",
+              "name": "Month DD, YYYY · City, State",
+              "w": 780,
+              "h": 25,
+              "text": "October 1–4, 2026",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 17,
+              "link": null
+            }
+          ]
+        },
+        {
+          "id": "108:92",
+          "name": "Event type / Hackathon, Conference, Program, Retreat",
+          "w": 172,
+          "h": 152,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "I108:92;52:145",
+              "name": "FROM THE FIELD",
+              "w": 148,
+              "h": 17,
+              "text": "FROM THE FIELD",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 12,
+              "link": null
+            },
+            {
+              "id": "I108:92;52:146",
+              "name": "Hackathon",
+              "w": 148,
+              "h": 42,
+              "text": "Hackathon",
+              "font": {
+                "family": "Instrument Serif",
+                "style": "Regular"
+              },
+              "size": 29,
+              "link": null
+            },
+            {
+              "id": "I108:92;52:147",
+              "name": "HAILEY’S POSTCARDS",
+              "w": 148,
+              "h": 13,
+              "text": "HAILEY’S POSTCARDS",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 9,
+              "link": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "108:93",
+      "name": "COVER / Replace fill with horizontal event photo",
+      "w": 1024,
+      "h": 682.6666870117188,
+      "image": true,
+      "src": "/assets/rowdyhacks-39c0a.webp",
+      "crop": "absolute inset-0 max-w-none object-contain pointer-events-none rounded-[12px] size-full"
+    },
+    {
+      "id": "108:95",
+      "name": "Postcard message",
+      "w": 1024,
+      "h": 279,
+      "layout": "HORIZONTAL",
+      "children": [
+        {
+          "id": "108:96",
+          "name": "Overview",
+          "w": 620,
+          "h": 204,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "108:97",
+              "name": "Dear reader,",
+              "w": 620,
+              "h": 55,
+              "text": "Dear reader,",
+              "font": {
+                "family": "Instrument Serif",
+                "style": "Italic"
+              },
+              "size": 38,
+              "link": null
+            },
+            {
+              "id": "108:98",
+              "name": "At RowdyHacks XII, my team built Blueprint: an AI-powered application that helps students discover technical projects, create personalized roadmaps, and get step-by-step guidance. I designed the UI/UX and helped shape how project plans move from an idea into a usable interface. This was my first hackathon!",
+              "w": 620,
+              "h": 125,
+              "text": "At RowdyHacks XII, my team built Blueprint: an AI-powered application that helps students discover technical projects, create personalized roadmaps, and get step-by-step guidance. I designed the UI/UX and helped shape how project plans move from an idea into a usable interface. This was my first hackathon!",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 17,
+              "link": null
+            }
+          ]
+        },
+        {
+          "id": "108:100",
+          "name": "Highlights",
+          "w": 380,
+          "h": 279,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "108:101",
+              "name": "The moments I’m keeping",
+              "w": 380,
+              "h": 55,
+              "text": "The moments I’m keeping",
+              "font": {
+                "family": "Instrument Serif",
+                "style": "Regular"
+              },
+              "size": 38,
+              "link": null
+            },
+            {
+              "id": "108:102",
+              "name": "[One thing you made or contributed] [One thing you learned] [A person, conversation, or moment that stayed with you]",
+              "w": 380,
+              "h": 200,
+              "text": "Designed interactive Figma prototypes, wireframes, and user flows.\n\nStructured JSON outputs and refined Gemini API prompts for consistent project plans.\n\nBuilt alongside a team of four during a 24-hour hackathon.",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 17,
+              "link": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "108:104",
+      "name": "People and tools",
+      "w": 1024,
+      "h": 104,
+      "layout": "HORIZONTAL",
+      "children": [
+        {
+          "id": "108:105",
+          "name": "Team",
+          "w": 500,
+          "h": 104,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "108:106",
+              "name": "Good company",
+              "w": 500,
+              "h": 55,
+              "text": "Good company",
+              "font": {
+                "family": "Instrument Serif",
+                "style": "Regular"
+              },
+              "size": 38,
+              "link": null
+            },
+            {
+              "id": "108:107",
+              "name": "Teammates: William Chen, Vian Chen, and Nolan Chatten",
+              "w": 500,
+              "h": 25,
+              "text": "Teammates: William Chen, Vian Chen, and Nolan Chatten",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 17,
+              "link": null
+            }
+          ]
+        },
+        {
+          "id": "108:108",
+          "name": "Tools",
+          "w": 500,
+          "h": 104,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "108:109",
+              "name": "In my toolkit",
+              "w": 500,
+              "h": 55,
+              "text": "In my toolkit",
+              "font": {
+                "family": "Instrument Serif",
+                "style": "Regular"
+              },
+              "size": 38,
+              "link": null
+            },
+            {
+              "id": "108:110",
+              "name": "[Tools, technologies, or methods used]",
+              "w": 500,
+              "h": 25,
+              "text": "Figma · Next.js · TypeScript · Tailwind CSS · Gemini API",
+              "font": {
+                "family": "Inter",
+                "style": "Regular",
+                "variationSettings": {
+                  "wght": 400,
+                  "slnt": 0
+                }
+              },
+              "size": 17,
+              "link": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "108:111",
+      "name": "More photos",
+      "w": 1024,
+      "h": 314.1711730957031,
+      "layout": "VERTICAL",
+      "children": [
+        {
+          "id": "108:112",
+          "name": "A few more memories",
+          "w": 1024,
+          "h": 55,
+          "text": "A few more memories",
+          "font": {
+            "family": "Instrument Serif",
+            "style": "Regular"
+          },
+          "size": 38,
+          "link": null
+        },
+        {
+          "id": "108:145",
+          "name": "Event photo gallery",
+          "w": 1024,
+          "h": 235.17117309570312,
+          "layout": "VERTICAL",
+          "children": [
+            {
+              "id": "108:146",
+              "name": "Frame",
+              "w": 1024,
+              "h": 235.17117309570312,
+              "layout": "HORIZONTAL",
+              "children": [
+                {
+                  "id": "108:147",
+                  "name": "Event photo 2",
+                  "w": 325,
+                  "h": 208.37730407714844,
+                  "image": true,
+                  "src": "/assets/rowdyhacks-0fa15.webp",
+                  "crop": "absolute inset-0 max-w-none object-contain pointer-events-none rounded-[12px] size-full"
+                },
+                {
+                  "id": "108:148",
+                  "name": "Event photo 3",
+                  "w": 325,
+                  "h": 235.17117309570312,
+                  "image": true,
+                  "src": "/assets/rowdyhacks-78600.webp",
+                  "crop": "absolute h-full left-[-5.95%] max-w-none top-0 w-[112.43%]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "108:117",
+      "name": "Postage links",
+      "w": 1024,
+      "h": 280,
+      "layout": "VERTICAL",
+      "children": [
+        {
+          "id": "108:118",
+          "name": "Follow the story",
+          "w": 1024,
+          "h": 55,
+          "text": "Follow the story",
+          "font": {
+            "family": "Instrument Serif",
+            "style": "Regular"
+          },
+          "size": 38,
+          "link": null
+        },
+        {
+          "id": "108:119",
+          "name": "A few stamps to take you further.",
+          "w": 1024,
+          "h": 25,
+          "text": "A few stamps to take you further.",
+          "font": {
+            "family": "Inter",
+            "style": "Regular",
+            "variationSettings": {
+              "wght": 400,
+              "slnt": 0
+            }
+          },
+          "size": 17,
+          "link": null
+        },
+        {
+          "id": "108:120",
+          "name": "Link stamps",
+          "w": 1024,
+          "h": 152,
+          "layout": "HORIZONTAL",
+          "children": [
+            {
+              "id": "108:121",
+              "name": "LINK / Website / Add destination URL",
+              "w": 172,
+              "h": 152,
+              "layout": "VERTICAL",
+              "children": [
+                {
+                  "id": "I108:121;52:145",
+                  "name": "FROM THE FIELD",
+                  "w": 148,
+                  "h": 17,
+                  "text": "FOLLOW THE STORY",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "variationSettings": {
+                      "wght": 400,
+                      "slnt": 0
+                    }
+                  },
+                  "size": 12,
+                  "link": null
+                },
+                {
+                  "id": "I108:121;52:146",
+                  "name": "Hackathon",
+                  "w": 148,
+                  "h": 42,
+                  "text": "Website",
+                  "font": {
+                    "family": "Instrument Serif",
+                    "style": "Regular"
+                  },
+                  "size": 29,
+                  "link": null
+                },
+                {
+                  "id": "I108:121;52:147",
+                  "name": "HAILEY’S POSTCARDS",
+                  "w": 148,
+                  "h": 13,
+                  "text": "OPEN LINK ↗",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "variationSettings": {
+                      "wght": 400,
+                      "slnt": 0
+                    }
+                  },
+                  "size": 9,
+                  "link": null
+                }
+              ]
+            },
+            {
+              "id": "108:122",
+              "name": "LINK / Vlog / Add destination URL",
+              "w": 172,
+              "h": 152,
+              "layout": "VERTICAL",
+              "children": [
+                {
+                  "id": "I108:122;52:145",
+                  "name": "FROM THE FIELD",
+                  "w": 148,
+                  "h": 17,
+                  "text": "FOLLOW THE STORY",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "variationSettings": {
+                      "wght": 400,
+                      "slnt": 0
+                    }
+                  },
+                  "size": 12,
+                  "link": null
+                },
+                {
+                  "id": "I108:122;52:146",
+                  "name": "Hackathon",
+                  "w": 148,
+                  "h": 42,
+                  "text": "GitHub",
+                  "font": {
+                    "family": "Instrument Serif",
+                    "style": "Regular"
+                  },
+                  "size": 29,
+                  "link": null
+                },
+                {
+                  "id": "I108:122;52:147",
+                  "name": "HAILEY’S POSTCARDS",
+                  "w": 148,
+                  "h": 13,
+                  "text": "OPEN LINK ↗",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "variationSettings": {
+                      "wght": 400,
+                      "slnt": 0
+                    }
+                  },
+                  "size": 9,
+                  "link": null
+                }
+              ]
+            },
+            {
+              "id": "108:123",
+              "name": "LINK / Devpost / Add destination URL",
+              "w": 172,
+              "h": 152,
+              "layout": "VERTICAL",
+              "children": [
+                {
+                  "id": "I108:123;52:145",
+                  "name": "FROM THE FIELD",
+                  "w": 148,
+                  "h": 17,
+                  "text": "FOLLOW THE STORY",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "variationSettings": {
+                      "wght": 400,
+                      "slnt": 0
+                    }
+                  },
+                  "size": 12,
+                  "link": null
+                },
+                {
+                  "id": "I108:123;52:146",
+                  "name": "Hackathon",
+                  "w": 148,
+                  "h": 42,
+                  "text": "Devpost",
+                  "font": {
+                    "family": "Instrument Serif",
+                    "style": "Regular"
+                  },
+                  "size": 29,
+                  "link": null
+                },
+                {
+                  "id": "I108:123;52:147",
+                  "name": "HAILEY’S POSTCARDS",
+                  "w": 148,
+                  "h": 13,
+                  "text": "OPEN LINK ↗",
+                  "font": {
+                    "family": "Inter",
+                    "style": "Regular",
+                    "variationSettings": {
+                      "wght": 400,
+                      "slnt": 0
+                    }
+                  },
+                  "size": 9,
+                  "link": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
