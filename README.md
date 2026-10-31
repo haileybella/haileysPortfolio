@@ -1,43 +1,31 @@
-# Hailey Muñiz — Personal site
+# Hailey Muñiz — Personal Portfolio
 
-A responsive portfolio built from Hailey’s approved Figma design: an interactive desktop-inspired home, project stories, research, and event postcards.
+A collection of my projects, research, and experiences, exploring computing education, AI literacy, and human–computer interaction.
 
-## Open the site on your Mac
+🌐 **Visit my portfolio:** [haileymuniz.tech](https://haileymuniz.tech)
 
-Open this folder in VS Code, open **Terminal → New Terminal**, and run:
+## Explore
 
-```sh
-npm install
-npm run dev
-```
+- **About Me:** My background, interests, and journey in computing.
+- **Selected Works:** Case studies for Museum App & Website, BluePrint, and TrailWatch.
+- **Research:** Publications, presentations, fellowships, programs, and professional memberships.
+- **Events:** Postcards from hackathons, conferences, and other experiences.
+- **Contact:** Ways to connect and collaborate.
+- **Résumé:** View my current résumé directly in your browser.
 
-Open the local address printed in the terminal (usually http://localhost:5173). Keep that terminal running while you use the site. **Control + C** stops it; open a second terminal if you want to type other commands.
+## Design & Development
 
-## Edit your content
+Designed in Figma and built with React, TypeScript, Vite, and CSS. Hosted on Vercel.
 
-- `src/App.tsx`: home, about, research, contact, navigation, and events collection.
-- `src/data.ts`: project/event order, social links, cover references, and story links.
-- `src/content/*.json`: complete project and event stories imported from Figma. Text lives in `text`; images use `src`.
-- `src/style.css`: shared colors, typography, spacing, and responsive layouts.
-- `public/assets/`: optimized local images. Fonts are also bundled locally.
+The design brings together a desktop-inspired homepage, an interactive project carousel, and a collection of event postcards.
 
-### Add the résumé PDF
+## Connect
 
-Put `resume.pdf` in `public/`. In `src/App.tsx`, change the RESUME link from the temporary email request to `/resume.pdf`, and change its title to `Download my résumé`. You can also use your own hosted PDF URL.
+- [LinkedIn](https://www.linkedin.com/in/haileymuniz)
+- [GitHub](https://github.com/haileybella)
+- [Figma](https://www.figma.com/@haileymbella)
+- [ORCID](https://orcid.org/0009-0002-8239-9571)
 
-### Check and publish
+## Images & Artwork
 
-```sh
-npm run build
-npm test
-```
-
-The build pre-renders all 14 pages so the text is present for search engines and initial loading. Vercel serves the site from `dist/`. With GitHub integration connected, pushing to `main` updates the site automatically.
-
-The carousel follows the Figma motion timeline; clicking a card pauses it for eight seconds. A manual pause button and reduced-motion support are included. All covers share the Mac screen ratio (524:283).
-
-Built with React, TypeScript, Vite, and plain CSS. No API keys or database are needed.
-
-Design source: https://www.figma.com/design/lONrkTOWbaaCu3x5g5MAeX
-
-Personal photographs and project artwork remain the property of their respective owners.
+Personal photographs, portfolio designs, and project artwork remain the property of their respective owners. Their inclusion in this repository does not grant permission for reuse.
