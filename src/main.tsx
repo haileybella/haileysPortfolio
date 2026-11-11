@@ -10,4 +10,9 @@ import App from './App';
 import './style.css';
 const element=<React.StrictMode><BrowserRouter><App/></BrowserRouter></React.StrictMode>;
 const root=document.getElementById('root')!;
-if(root.hasChildNodes())hydrateRoot(root,element);else createRoot(root).render(element);
+const path = window.location.pathname.replace(/\/+$/, '') || '/';
+if (root.dataset.prerenderedPath === path) {
+  hydrateRoot(root, element);
+} else {
+  createRoot(root).render(element);
+}
