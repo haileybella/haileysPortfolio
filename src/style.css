@@ -1426,8 +1426,112 @@ body {
 .postcard-photo-frame .postcard-photo-fit { object-fit: contain; }
 .postcard-photo-cturc .postcard-photo { position: absolute; top: -98.426%; left: 0; height: 295.024%; object-fit: fill; }
 .events-page .postcard-caption { padding-top: 7px; padding-right: 76px; min-height: 54px; gap: 3px; }
-.events-page .postcard-caption h2 { font-size: 13px; line-height: 1.2; }
+.events-page .postcard-caption h2 { max-width: 196px; font-size: 13px; line-height: 1.2; }
 .events-page .postcard-caption p { font-size: 9px; line-height: 1.3; }
 .events-page .postmark { width: 80px; right: 10px; bottom: 9px; }
 .events-page .postmark.hackathon { width: 94px; right: 2px; }
+@media (651px <= width <= 900px) {
+  .events-page .postcards { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
 @media (max-width: 650px) { .events-page .postcard { max-width: 350px; width: 100%; justify-self: center; } }
+
+.hackutd-detail {
+  width: min(1120px, 90%);
+  margin-top: 40px;
+}
+.hackutd-detail > .back-link {
+  margin-bottom: 36px;
+}
+.hackutd-detail .story-row {
+  gap: 24px;
+}
+.hackutd-detail .postcard-message > section:first-child {
+  flex-grow: 620;
+}
+.hackutd-detail .postcard-message > section:last-child {
+  flex-grow: 380;
+}
+.hackutd-detail .postcard-message p + p {
+  margin-top: 1.45em;
+}
+.hackutd-detail .people-tools {
+  padding-top: 36px;
+}
+.hackutd-detail .detail-stamp,
+.hackutd-detail .link-stamp {
+  background: url("/assets/hackutd/stamp.svg") center / contain no-repeat;
+  border: 0;
+  min-height: 0;
+  aspect-ratio: 172 / 152;
+  gap: 8px;
+}
+.hackutd-cover {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1024 / 639;
+  object-fit: cover;
+}
+.hackutd-memories {
+  padding-bottom: 24px;
+}
+.hackutd-detail .hackutd-memories h2 {
+  font-size: 34px;
+  margin-bottom: clamp(24px, 5vw, 53px);
+}
+.hackutd-gallery {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  max-width: 998px;
+  gap: clamp(12px, 2.4vw, 28px);
+}
+.hackutd-gallery-column {
+  display: flex;
+  flex-direction: column;
+  gap: clamp(12px, 2.4vw, 28px);
+}
+.hackutd-memory {
+  position: relative;
+  overflow: hidden;
+  border-radius: 14px;
+}
+.hackutd-memory img {
+  position: absolute;
+  inset: 0 auto auto 0;
+  width: 100%;
+  height: 100%;
+  max-width: none;
+  object-fit: cover;
+}
+.hackutd-memory img[style] {
+  object-fit: fill;
+}
+
+@media (min-width: 651px) {
+  .hackutd-detail h1 {
+    font-size: clamp(46px, 6vw, 68px);
+  }
+}
+
+@media (max-width: 650px) {
+  .hackutd-detail > .back-link {
+    margin-bottom: 24px;
+  }
+  .hackutd-detail .event-header {
+    gap: 12px;
+  }
+  .hackutd-detail .detail-stamp,
+  .hackutd-detail .link-stamp {
+    gap: 4px;
+    padding: 8px 4px;
+  }
+  .hackutd-detail .stamp-links {
+    flex-direction: row;
+    gap: 12px;
+  }
+  .hackutd-memories {
+    padding-bottom: 0;
+  }
+  .hackutd-gallery {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}

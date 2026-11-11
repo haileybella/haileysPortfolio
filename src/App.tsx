@@ -248,7 +248,7 @@ function Events() {
             <div className={"postcard-photo-frame " + (e.slug === "cturc" ? "postcard-photo-cturc" : "")}>
             <img
               className={"postcard-photo " + (e.slug === "kode" ? "postcard-photo-fit" : "")}
-              src={"/assets/postcard-" + e.slug + (e.slug === "cturc" ? ".jpg" : ".png")}
+              src={e.cover ?? ("/assets/postcard-" + e.slug + (e.slug === "cturc" ? ".jpg" : ".png"))}
               alt={e.title}
               loading="lazy"
             />
@@ -387,7 +387,9 @@ function Research() {
   );
 }
 function ScrollManager() {
-  const { pathname, hash } = useLocation();
+  const location = useLocation();
+  const pathname = location.pathname.replace(/\/+$/, "") || "/";
+  const { hash } = location;
   useEffect(() => {
     document.title = pathname.startsWith("/projects/")
       ? (projects.find((p) => pathname.endsWith(p.slug))?.title ?? "Project") +

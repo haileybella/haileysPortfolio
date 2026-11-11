@@ -1,4 +1,5 @@
 import { Link, useParams } from "react-router-dom";
+import HackUTD from "./HackUTD";
 import {
   events,
   projects,
@@ -165,15 +166,16 @@ export default function Story({ kind }: { kind: "project" | "event" }) {
     );
   return (
     <article
-      className={`container story ${kind === "event" ? "postcard-detail" : ""}`}
+      className={`container story ${kind === "event" ? "postcard-detail" : ""}${slug === "hackutd" ? " hackutd-detail" : ""}`}
     >
       <Link
         className="back-link"
         to={kind === "event" ? "/events" : "/projects"}
       >
+        {slug === "hackutd" && <span aria-hidden="true">← </span>}
         {kind === "event" ? "All postcards" : "Selected works"}
       </Link>
-      <Block node={item.tree} />
+      {item.tree ? <Block node={item.tree} /> : <HackUTD title={item.title} cover={item.cover} />}
     </article>
   );
 }

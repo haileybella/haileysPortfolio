@@ -10,6 +10,7 @@ const routes = {
   "/projects/museum": "Museum App & Website",
   "/projects/blueprint": "BluePrint",
   "/projects/trailwatch": "TrailWatch",
+  "/events/hackutd": "HackUTD 2026",
   "/events/rowdyhacks": "RowdyHacks XII",
   "/events/we-teach": "We_Teach CS Summit",
   "/events/stanford": "Stanford Young Scientist Institute",
@@ -24,7 +25,7 @@ for (const [route, title] of Object.entries(routes)) {
   let html = template
     .replace(
       '<div id="root"></div>',
-      '<div id="root">' + render(route) + "</div>"
+      '<div id="root" data-prerendered-path="' + route + '">' + render(route) + "</div>"
     )
     .replace(
       /<title>.*?<\/title>/,

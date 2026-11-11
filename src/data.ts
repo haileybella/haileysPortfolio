@@ -18,6 +18,7 @@ export const projects=[
  {slug:'trailwatch',title:'TrailWatch',summary:'A personal mobile UI exploration inspired by getting outdoors and noticing changes along local trails.',cta:'See the exploration',cover:'/assets/trailwatch-covercasestudy.png',tree:trailwatch as StoryNode}
 ];
 export const events=[
+ {slug:'hackutd',title:'HackUTD 2026',date:'November 7–8, 2026',type:'Hackathon',cover:'/assets/hackutd/team-cover.webp'},
  {slug:'rowdyhacks',title:'RowdyHacks XII',date:'October 1–4, 2026',type:'Hackathon',tree:rowdyhacks as StoryNode},
  {slug:'we-teach',title:'We_Teach CS Summit',date:'June 15–16, 2026',type:'Conference',tree:weTeach as StoryNode},
  {slug:'stanford',title:'Stanford Young Scientist Institute',date:'May 25–30, 2026',type:'Program',tree:stanford as StoryNode},
